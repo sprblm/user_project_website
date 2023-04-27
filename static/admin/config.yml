@@ -1,0 +1,18 @@
+backend:
+  name: github
+  repo: simplysecure/user_project_website
+  branch: main
+media_folder: "static/img"
+public_folder: "/img"
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "content/blog"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { name: "title", label: "Title" }
+      - { name: "date", label: "Date", widget: "datetime" }
+      - { name: "author", label: "Author", widget: "string" }
+      - { name: "featuredImage", label: "Featured Image", widget: "image" }
+      - { name: "body", label: "Body", widget: "markdown" }
