@@ -23,3 +23,27 @@ collections:
       - { name: "tag", label: "Tag(s)", widget: "text" }
       - { name: "featuredImage", label: "Featured Image", widget: "image" }
       - { name: "body", label: "Body", widget: "markdown" }
+  - name: "patterns"
+    label: "Patterns"
+    folder: "content/patterns"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { name: "title", label: "Title" }
+      - { name: "slug", label: "URL Slug" }
+      - { name: "author", label: "Author(s)", widget: "text" }
+      - { name: "tag", label: "Tag(s)", widget: "text" }
+      - { name: "featuredImage", label: "Featured Image", widget: "image" }
+      - { name: "body", label: "Body", widget: "markdown" }
+  - name: "writing"
+    label: "Patterns Writing"
+    folder: "content/patterns/writing"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { name: "title", label: "Title" }
+      - { name: "slug", label: "URL Slug" }
+      - { name: "author", label: "Author(s)", widget: "text" }
+      - { name: "tag", label: "Tag(s)", widget: "text" }
+      - { name: "featuredImage", label: "Featured Image", widget: "image" }
+      - { name: "body", label: "Body", widget: "markdown" }
