@@ -2,8 +2,14 @@ backend:
   name: github
   repo: simplysecure/user_project_website
   branch: main
-media_folder: "static/img"
-public_folder: "/img"
+  site_domain: subtle-medovik-58f1c6.netlify.app
+
+media_folder: 'static/images'
+public_folder: '/images'
+
+publish_mode: editorial_workflow
+show_preview_links: true
+
 collections:
   - name: "content"
     label: "Content"
