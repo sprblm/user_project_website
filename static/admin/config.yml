@@ -18,7 +18,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { name: "title", label: "Title" }
-      - { name: "slug", label: "URL Slug" }
+      - { name: "slug", label: "URL Slug", required: false }
       - { name: "author", label: "Author(s)", widget: "text", required: false }
       - { name: "tag", label: "Tag(s)", widget: "text", required: false  }
       - { name: "featuredImage", label: "Featured Image", widget: "image", required: false }
