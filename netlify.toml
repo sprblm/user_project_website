@@ -1,0 +1,9 @@
+[build]
+command = "hugo"
+publish = "docs"
+
+[build.environment]
+HUGO_VERSION = "0.109.0"
+
+[context.deploy-preview]
+command = "hugo --baseURL https://subtle-medovik-58f1c6.netlify.app/ --buildFuture"
