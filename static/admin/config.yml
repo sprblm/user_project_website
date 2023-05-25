@@ -19,31 +19,67 @@ collections:
     fields:
       - { name: "title", label: "Title" }
       - { name: "slug", label: "URL Slug" }
-      - { name: "author", label: "Author(s)", widget: "text" }
-      - { name: "tag", label: "Tag(s)", widget: "text" }
-      - { name: "featuredImage", label: "Featured Image", widget: "image" }
+      - { name: "author", label: "Author(s)", widget: "text", required: false }
+      - { name: "tag", label: "Tag(s)", widget: "text", required: false  }
+      - { name: "featuredImage", label: "Featured Image", widget: "image", required: false }
       - { name: "body", label: "Body", widget: "markdown" }
-  - name: "patterns"
-    label: "Patterns"
-    folder: "content/patterns"
+  - name: "about"
+    label: "About USER"
+    folder: "content/about"
     create: true
     slug: "{{slug}}"
     fields:
       - { name: "title", label: "Title" }
       - { name: "slug", label: "URL Slug" }
-      - { name: "author", label: "Author(s)", widget: "text" }
-      - { name: "tag", label: "Tag(s)", widget: "text" }
-      - { name: "featuredImage", label: "Featured Image", widget: "image" }
+      - { name: "author", label: "Author(s)", widget: "text", required: false }
+      - { name: "tag", label: "Tag(s)", widget: "text", required: false  }
+      - { name: "featuredImage", label: "Featured Image", widget: "image", required: false }
       - { name: "body", label: "Body", widget: "markdown" }
-  - name: "writing"
-    label: "Patterns Writing"
-    folder: "content/patterns/writing"
+  - name: "findings"
+    label: "Findings"
+    folder: "content/findings"
     create: true
     slug: "{{slug}}"
     fields:
       - { name: "title", label: "Title" }
       - { name: "slug", label: "URL Slug" }
-      - { name: "author", label: "Author(s)", widget: "text" }
-      - { name: "tag", label: "Tag(s)", widget: "text" }
-      - { name: "featuredImage", label: "Featured Image", widget: "image" }
+      - { name: "author", label: "Author(s)", widget: "text", required: false }
+      - { name: "tag", label: "Tag(s)", widget: "text", required: false  }
+      - { name: "featuredImage", label: "Featured Image", widget: "image", required: false }
       - { name: "body", label: "Body", widget: "markdown" }
+  - name: "part-1-the-state-of-SROSS"
+    label: "Part 1: The State of Science and Research Open Source Software (SROSS) Projects"
+    folder: "content/part-1-the-state-of-SROSS"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { name: "title", label: "Title" }
+      - { name: "slug", label: "URL Slug" }
+      - { name: "author", label: "Author(s)", widget: "text", required: false }
+      - { name: "tag", label: "Tag(s)", widget: "text", required: false  }
+      - { name: "featuredImage", label: "Featured Image", widget: "image", required: false }
+      - { name: "body", label: "Body", widget: "markdown" }
+  - name: "part-2-project-operations"
+    label: "Part 2: Project Operations"
+    folder: "content/part-2-project-operations"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { name: "title", label: "Title" }
+      - { name: "slug", label: "URL Slug" }
+      - { name: "author", label: "Author(s)", widget: "text", required: false }
+      - { name: "tag", label: "Tag(s)", widget: "text", required: false  }
+      - { name: "featuredImage", label: "Featured Image", widget: "image", required: false }
+      - { name: "body", label: "Body", widget: "markdown" }
+  - name: "part-3-design"
+    label: "Part 3: Design"
+    folder: "content/part-3-design"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { name: "title", label: "Title" }
+      - { name: "slug", label: "URL Slug" }
+      - { name: "author", label: "Author(s)", widget: "text", required: false }
+      - { name: "tag", label: "Tag(s)", widget: "text", required: false  }
+      - { name: "featuredImage", label: "Featured Image", widget: "image", required: false }
+      - { name: "body", label: "Body", widget: "markdown" } 
