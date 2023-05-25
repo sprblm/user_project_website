@@ -1,0 +1,25 @@
+backend:
+  name: github
+  repo: simplysecure/user_project_website
+  branch: main
+  site_domain: subtle-medovik-58f1c6.netlify.app
+
+media_folder: 'static/images'
+public_folder: '/images'
+
+publish_mode: editorial_workflow
+show_preview_links: true
+
+collections:
+  - name: "content"
+    label: "Content"
+    folder: "content"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { name: "title", label: "Title" }
+      - { name: "slug", label: "URL Slug" }
+      - { name: "author", label: "Author(s)", widget: "text" }
+      - { name: "tag", label: "Tag(s)", widget: "text" }
+      - { name: "featuredImage", label: "Featured Image", widget: "image" }
+      - { name: "body", label: "Body", widget: "markdown" }
