@@ -1,5 +1,5 @@
 ---
-title: Social World Map
-slug: social-world-map
+title: Social Systems Map
+slug: social-systems-map
 ---
 placeholder
