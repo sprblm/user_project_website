@@ -2,11 +2,9 @@
 title: USER Project Journey
 slug: project-journey
 ---
-Here you will find articles and blog posts that the team at [Superbloom](https://superbloom.design/) and collaborators have written about the [USER Project](https://github.com/simplysecure/USER_project).
+Here you will find articles and blog posts that the team at [Superbloom](https://superbloom.design/) and our collaborators have written about the [USER Project](https://github.com/simplysecure/USER_project).
 
 These articles catalogue the journey that the USER Project has taken since it's beginning in September 2022.
-
-
 
 \---
 
