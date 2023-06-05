@@ -96,16 +96,14 @@
                             {{ .Title }}
                           </a>
                         {{ else }}
-                          {{ .Title }}
+                       <mark>{{ .Title }}</mark>
                         {{ end }}
                       </h3>
                       <ul>
                         {{ range .Pages.ByWeight }}
                           <li class="pattern">
                             <a href="{{ .RelPermalink }}" {{ if eq $current.Permalink .Permalink  }}aria-current="page"{{ end }}>
-                              <svg class="bookmark-icon" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                                <use xlink:href="#bookmark"></use>
-                              </svg>
+                              <span>>>&nbsp;&nbsp;</span>
                               <span class="text">{{ .Title }}</span>
                             </a>
                           </li>

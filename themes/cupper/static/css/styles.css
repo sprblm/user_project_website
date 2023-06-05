@@ -431,6 +431,14 @@ code {
     padding-right: 0.25em;
 }
 
+mark {
+    background: #111;
+    color: #fefefe;
+    padding: 0;
+    margin: 0;
+    font-family: JetBrains Mono, monospace;
+}
+
 /* Lists */
 
 main ul,
@@ -609,12 +617,12 @@ caption {
 
 .intro-and-nav {
     font-size: 0.8rem;
-    width: 15rem;
+    width: 18rem;
     height: 100vh;
     position: fixed;
     top: 0;
     left: 0;
-    border-right: 2px solid;
+    border-right: 3px solid #111 !important;
 }
 
 .intro-and-nav>div {
@@ -634,11 +642,30 @@ caption {
 
 .logo {
     border: 0;
+    display: flex;
+    column-gap: 24px;
+    align-items: center;
+
+    .logo-text {
+        display: flex;
+        flex-direction: column;
+        column-gap: 0px;
+        font-size: 1rem;
+        font-family: JetBrains Mono, monospace;
+        font-weight: medium;
+        margin: 0;
+
+        .clear {
+            margin: -3px;
+            padding: 0px;
+        }
+    }
 }
 
 .logo img {
     width: 100%;
-    max-width: 12rem;
+    max-width: 5rem;
+
 }
 
 .library-desc {
@@ -646,6 +673,7 @@ caption {
     margin-left: auto;
     margin-right: auto;
     max-width: 25rem;
+    padding: 0px .5rem;
 }
 
 .main-and-footer {
@@ -700,9 +728,13 @@ caption {
     border: 0;
     display: flex;
     flex-wrap: nowrap;
-    align-items: baseline;
+    align-items: center;
     font-weight: bold;
     padding: 0 1rem;
+
+    .text {
+        font-family: JetBrains Mono, monospace;
+    }
 }
 
 .pattern a:focus {
@@ -1225,6 +1257,7 @@ h1 svg {
 
 .wrapper.print-version #patterns-list h3 {
     font-size: 1.25rem;
+    f;
 }
 
 .wrapper.print-version .patterns {
