@@ -366,7 +366,7 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: "JetBrains Mono", serif;
+    font-family: 'IBM Plex Sans', serif;
     line-height: 1.125;
 }
 
@@ -716,7 +716,10 @@ caption {
 /* after */
 .pattern [aria-current] {
     background-color: #111;
-    clip-path: polygon(0% 0%, 90% 0%, 100% 50%, 90% 100%, 0% 100%);
+    clip-path: polygon(0% 0%,
+            100% 0%,
+            100% 100%,
+            0% 100%);
     color: #fefefe;
     padding: 0.5em 1em 0.5em;
 }
@@ -1431,6 +1434,8 @@ h1 svg {
         background: none;
     }
 }
+
+/* Customize */
 
 .main-and-footer {
     background: url("/images/line-art-science-researcher.svg");
