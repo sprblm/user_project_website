@@ -7,7 +7,7 @@ backend:
 media_folder: 'static/images'
 public_folder: '/images'
 
-publish_mode: editorial_workflow
+publish_mode: simple
 show_preview_links: true
 
 collections:
