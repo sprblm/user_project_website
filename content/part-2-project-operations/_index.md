@@ -1,4 +1,5 @@
 ---
-title: "Part 2: Project Operations"
-weight: 3
+title: 'Part 2: Project Operations'
+slug: project-operations
 ---
+placeholder
