@@ -7,8 +7,6 @@ author: Katie Wilson
 
 We at Superbloom have dedicated ourselves to understanding and sharing how designers work and how design is practiced within open source teams and communities for years (see [Open Source Design](https://opensourcedesign.net/) and our podcasts on [Sustaining Open Source Design](https://sosdesign.sustainoss.org/)). With support from the [Sloan Foundation](https://sloan.org/), we had the opportunity to dig into these questions within academic and scientific communities in particular. We named this project “USER” — Usable Software Ecosystem Research – and defined it as a research initiative that explores how open source scientific and research software (S&R OSS) teams understand, consider, and undertake usability and design opportunities in their projects.
 
-
-
 # Methods
 
 Our research followed an iterative Human-Centered Design approach using multiple methods of inquiry. Human-centered design (HCD) is a process centered around understanding people’s — specifically end users’ — needs, leveraging qualitative and quantitative research to generate actionable insights. Our primary activities were:
@@ -17,7 +15,7 @@ Our research followed an iterative Human-Centered Design approach using multiple
 
 We spent the first two months of this research project analyzing data and information about the open source research software ecosystem to better understand existing resources, programs, and efforts to support research software for science. In this period, we reviewed relevant literature on design and usability in OSS, and on scientific OSS in particular. 
 
-We also began compiling information about projects and players in the ecosystem and began building what became our [Ecosystem Map](/ecosystem-map), which enabled us to understand the overlapping web of tools, projects, people, and funders that make up the SROSS space.
+We also began compiling information about projects and players in the ecosystem and began building what became our [Ecosystem Map](/about/ecosystem-map/), which enabled us to understand the overlapping web of tools, projects, people, and funders that make up the SROSS space.
 
 While the USER research team delved into the papers, blogs, repos and written accounts of key terms and subjects, we also made social connections with key SROSS funders, projects, institutions and individuals across conferences and community events like CZI Open Science and OpenRIT. We’ve learned from past design research projects in OSS that important context and nuance is revealed through relationship building, so establishing these connections contributed to our exploratory research practice. Developing an understanding of and learning to participate in the culture and community of OSS, not unlike how OSS itself gets built and maintained, comes from connecting with other people who value the work. From these connections, we built relationships that fed the research activities and also allowed our design researchers and the scientists, researchers and designers we met to speak on equitable, social terms and gather initial human-centered insights. 
 
