@@ -13,6 +13,8 @@ There was broad acknowledgment from participants that a large part of the appeal
 
 ![A snapshot of our ecosystem map, which was created on Miro](/images/screen shot 2023-06-12 at 1.46.43 pm.png)
 
+
+
 **Disciplines represented: **
 
 * Vocal behavior
