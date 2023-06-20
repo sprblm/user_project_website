@@ -251,7 +251,7 @@
 *::before,
 *::after {
     font-family: inherit;
-    background-color: inherit;
+    background-color: transparent;
     color: inherit;
     margin: 0;
     padding: 0;
@@ -658,8 +658,7 @@ caption {
 
 .logo img {
     width: 100%;
-    max-width: 5rem;
-
+    /* max-width: 5rem; */
 }
 
 .library-desc {
@@ -1461,23 +1460,30 @@ h1 svg {
 
 /* Customize */
 
-.main-and-footer {
-    background: url("/images/line-art-science-researcher.svg");
-    background-repeat: no-repeat;
-    background-size: 66%;
-    background-position: left center;
+.header-image {
 
-    .header-image {
-        background: url("/images/header-image.svg");
-        background-repeat: no-repeat;
-        background-size: 90%;
-        background-position: top center;
-        height: 200px;
-        width: 100%;
-    }
+}
 
-    .wrapper-main {
-        background-color: transparent;
-        position: relative;
-    }
+.pattern a span.text {
+    font-family: JetBrains Mono, monospace;
+    line-height: 1.2rem;
+}
+
+.sidebar-headings {
+    background: #111;
+    color: #fefefe;
+    font-family: JetBrains Mono, monospace;
+    font-style: normal;
+    line-height: 1.36rem;
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar-headings a {
+    border-bottom: none;
+}
+
+.wrapper-main {
+    background-color: transparent;
+    position: relative;
 }
