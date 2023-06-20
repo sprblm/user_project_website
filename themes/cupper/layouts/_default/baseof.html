@@ -81,13 +81,13 @@
                 {{ range $.Site.Home.Sections }}
                   {{ if .Pages | len }}
                     <li>
-                      <h3>
+                      <h3 class="sidebar-headings">
                         {{ if .Content }}
                           <a href="{{ .RelPermalink }}" {{ if eq $current.Permalink .Permalink  }}aria-current="page"{{ end }}>
                             {{ .Title }}
                           </a>
                         {{ else }}
-                       <mark>{{ .Title }}</mark>
+                       {{ .Title }}
                         {{ end }}
                       </h3>
                       <ul>
