@@ -617,6 +617,7 @@ caption {
     top: 0;
     left: 0;
     border-right: 3px solid #111 !important;
+    background-color: white;
 }
 
 .intro-and-nav>div {
@@ -1461,7 +1462,17 @@ h1 svg {
 /* Customize */
 
 .header-image {
+ position: relative; 
+ padding: 10px;
+}
 
+.header-image img {
+    position: relative;
+    height: auto;
+    top: 10;
+    left: 0;
+    width: 100%;
+    z-index: -1;
 }
 
 .pattern a span.text {
@@ -1486,4 +1497,23 @@ h1 svg {
 .wrapper-main {
     background-color: transparent;
     position: relative;
+}
+
+.bg {
+    background-color: transparent;
+    position: relative;
+}
+
+.bg-image {
+    position: absolute;
+    top: 0;
+    left: -800px;
+    width: 100%;
+    height: auto;
+    opacity: .25;
+    z-index: -1;
+}
+
+#main {
+    z-index: 100;
 }
