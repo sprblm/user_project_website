@@ -2,6 +2,7 @@
 title: Prioritization
 slug: prioritization
 author: Abhishek Sharma
+weight: 5
 ---
 ## Usability, a competing priority?
 

@@ -2,6 +2,7 @@
 title: 'Zines: Design in SROSS '
 slug: zines
 author: 'Ngọc Triệu, Eriol Fox '
+weight: 6
 ---
 In an effort to package keys findings from our research into more digestible and distributible pieces, we created zines. We used the zine format as a way to introduce people to our research and findings at conferences, and hope to continue to distribute them to raise awareness and pique interest about design and usability in science and research OSS. 
 

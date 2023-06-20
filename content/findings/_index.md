@@ -2,6 +2,7 @@
 title: Process
 slug: process
 author: Katie Wilson
+weight: 1
 ---
 # Origin Story
 

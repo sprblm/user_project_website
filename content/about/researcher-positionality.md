@@ -1,6 +1,7 @@
 ---
 title: Researcher Positionality
 slug: positionality
+weight: 3
 ---
 ## We acknowledge that while researching the science and research OSS space, that we bring our own individual and organisational positionality to the research and work.
 

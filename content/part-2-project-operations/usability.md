@@ -2,6 +2,7 @@
 title: Usability
 slug: usability
 author: Eriol Fox
+weight: 4
 ---
 ## What does usability mean to people contributing to, building and designing for Science and Research OSS? What does it mean to designers outside of the science and research field?
 

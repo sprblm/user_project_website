@@ -2,6 +2,7 @@
 title: Onboarding
 slug: onboarding
 author: Eriol Fox
+weight: 1
 ---
 ## What is onboarding? Why it is important? What does it typically look like in SROSS projects?
 

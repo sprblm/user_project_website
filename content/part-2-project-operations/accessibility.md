@@ -2,6 +2,7 @@
 title: Accessibility
 slug: accessibility
 author: Eriol Fox
+weight: 6
 ---
 ## How is accessibility understood?
 

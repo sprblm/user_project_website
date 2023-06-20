@@ -2,6 +2,7 @@
 title: Social Systems Map
 slug: social-systems-map
 author: Jan Dittrich and Abhishek Sharma
+weight: 5
 ---
 The social systems map is an overview of different social systems interacting in our field of research. This includes overlaps between them, exchange of goods and work, generation of status and relevant objects.
 
