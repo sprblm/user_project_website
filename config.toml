@@ -1,10 +1,10 @@
 languageCode = "en-us"
-title = "Cupper"
+title = "Usable Software Ecosystem Research"
 baseURL = "https://subtle-medovik-58f1c6.netlify.app"
 canonifyURLs = true
 theme = "cupper"
 publishDir = "docs"
 
 [params]
-  description = "Documentation for the **Cupper** documentation builder, built with **Cupper** itself."
+  description = "Researching how usability and design presents in scientific open source software, with the goal of investigating what are the conditions that enable scientific open source teams to prioritize and focus on usability successfully. This work is supported by the Sloan Foundation."
   codePenUser = "Heydon"

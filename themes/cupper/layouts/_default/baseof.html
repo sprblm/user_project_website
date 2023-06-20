@@ -47,7 +47,16 @@
           <div>
             <div class="intro">
               <a class="logo" href="/" aria-label="{{ .Site.Title }} home page">
-                <img src="{{ "images/logo.svg" | absURL }}" alt="">
+                <img src="{{ "images/logo.svg" | absURL }}" alt=""><span class="logo-text">
+                  <span class="clear"><mark>&#8239;Usable&#8239;</mark>
+                  </span>
+                  <span class="clear"><mark>&#8239;Software&#8239;</mark>
+                  </span>
+                  <span class="clear"><mark>&#8239;Ecosystem&#8239;</mark>
+                  </span>
+                  <span class="clear"><mark>&#8239;Research&#8239;</mark>
+                  </span>
+                </span>
               </a>
               <p class="library-desc">
                 {{ .Site.Params.Description | markdownify }}
@@ -87,16 +96,14 @@
                             {{ .Title }}
                           </a>
                         {{ else }}
-                          {{ .Title }}
+                       <mark>{{ .Title }}</mark>
                         {{ end }}
                       </h3>
                       <ul>
                         {{ range .Pages.ByWeight }}
                           <li class="pattern">
                             <a href="{{ .RelPermalink }}" {{ if eq $current.Permalink .Permalink  }}aria-current="page"{{ end }}>
-                              <svg class="bookmark-icon" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                                <use xlink:href="#bookmark"></use>
-                              </svg>
+                              <span>>>&nbsp;&nbsp;</span>
                               <span class="text">{{ .Title }}</span>
                             </a>
                           </li>
@@ -111,18 +118,19 @@
           </div>
         </header>
       <div class="main-and-footer">
-        <div>
+        <div class="header-image"></div>
+        <div class="wrapper-main">
           {{ block "main" . }}
           {{ end }}
           <footer role="contentinfo">
-            <div>
+            {{/*  <div>
               <label for="themer">
                 dark theme: <input type="checkbox" id="themer" class="vh">
                 <span aria-hidden="true"></span>
               </label>
-            </div>
-            Powered by <strong>Cupper</strong>, a <strong>The Paciello Group</strong> project.<br>
-            For general enquiries, contact us on info@paciellogroup.com.
+            </div>  */}}
+            {{/*  Powered by <strong>Cupper</strong>, a <strong>The Paciello Group</strong> project.<br>
+            For general enquiries, contact us on info@paciellogroup.com.  */}}
           </footer>
         </div>
       </div>
