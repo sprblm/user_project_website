@@ -2,6 +2,7 @@
 title: Feedback and Knowing your Users
 slug: feedback-knowing-users
 author: Jan Dittrich
+weight: 3
 ---
 ## Introduction
 

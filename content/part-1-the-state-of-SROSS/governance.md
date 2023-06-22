@@ -2,6 +2,7 @@
 title: Governance
 slug: Governance
 author: Eriol Fox
+weight: 4
 ---
 ## What is governance in open source? What unique understandings, perspectives and applications do science and research OSS and designers have on governance?
 

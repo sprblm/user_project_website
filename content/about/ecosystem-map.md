@@ -2,6 +2,7 @@
 title: Ecosystem map
 slug: ecosystem-map
 author: Katie Wilson
+weight: 4
 ---
 **To see the true range of projects we spoke with, in discipline, size, and scope, take a look at our **[**ecosystem map**](/about/ecosystem-map/)**. If your project team would like to be added, please **[**submit an issue here. **](https://github.com/simplysecure/USER_project/issues/new)
 

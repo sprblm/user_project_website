@@ -2,6 +2,7 @@
 title: Contributors and contribution
 slug: contributions
 author: Abhishek Sharma
+weight: 3
 ---
 ## SROSS is sustained by contributors
 

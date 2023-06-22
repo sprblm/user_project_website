@@ -1,6 +1,7 @@
 ---
 title: Glossary & terminology
 slug: glossary-and-terminology
+weight: 8
 ---
 **Open Source:** “Open Source” can have two related meanings: 
 

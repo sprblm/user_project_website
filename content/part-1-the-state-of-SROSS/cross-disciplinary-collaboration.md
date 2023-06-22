@@ -2,6 +2,7 @@
 title: Cross-disciplinary collaboration
 slug: collaboration
 author: Katie Wilson
+weight: 4
 ---
 ## Intro
 

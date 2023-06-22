@@ -2,6 +2,7 @@
 title: Documentation
 slug: documentation
 author: Abhishek Sharma
+weight: 2
 ---
 Documentation in SROSS serves many purposes such as helping users navigate through the software and discover features, it helps resolve installation issues and dependencies, it enables a better way to package the software, it also helps make the code easier to access by other developers when the code is documented well. Documentation takes various forms, from a simple read-me to tutorials, workshops, case studies, examples, training, videos etc… all serving the purposes mentioned above. Software teams believe that documentation enables their users to identify and understand what the software offers while evaluating choices. One respondent claimed that “it is a way into the future in a way that other people can continue if docs are good”. Even though most of the softwares agree that it “promotes stability in project usability - allowing users to access workflows smoothly”, not all softwares are equal when it comes to managing and strategizing documentation.
 

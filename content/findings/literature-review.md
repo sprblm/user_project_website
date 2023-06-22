@@ -2,6 +2,7 @@
 title: Literature Review
 slug: literature-review
 author: Jan Dittrich
+weight: 2
 ---
 # Research on Usability and Open Source Software
 

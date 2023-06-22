@@ -2,6 +2,8 @@
 title: Funding and Sustainability
 slug: funding-and-sustainability
 author: Katie Wilson
+weight: 5
+
 ---
 For OSS within science and beyond, funding and sustainability are of continuous concern. Championing openness above profit, projects often struggle to maintain funding, have majority-volunteer maintenance teams, or have to spend a large portion of their time fundraising. Participants reported that grants are particularly challenging: institutions take percentages of grant money as high as 60%; grants are usually limited to a single idea or feature; grants are typically focused on ‘newness’ rather than long term stability, so many projects can get funding to get started but not to keep going. Despite this being a well-known issue in the OSS community, our research revealed intricacies and considerations that come up in SROSS projects in particular. 
 

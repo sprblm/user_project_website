@@ -1,6 +1,7 @@
 ---
 title: USER Project Journey
 slug: project-journey
+weight: 2
 ---
 Here you will find articles and blog posts that the team at [Superbloom](https://superbloom.design/) and our collaborators have written about the [USER Project](https://github.com/simplysecure/USER_project).
 
