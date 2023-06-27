@@ -81,7 +81,7 @@ SROSS designers reported feeling isolated – often, they are the only designer 
 
 <hr>
 
-# [Recommendations](#Recommendations)
+# Recommendations
 
 Below you will find the list of recommendations that the USER research team has compiled. Many of these recommendations are broad to allow for the implementation of them to be context specific and maintainable by the specific SROSS project or team that wishes to make changes. If you’d like to discuss specific ways to implement the recommendations please reach out by raising an issue in our [Github repository that is focussed around discussion here](https://github.com/simplysecure/USER_project/discussions/categories/recommendations).
 
