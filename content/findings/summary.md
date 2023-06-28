@@ -8,7 +8,7 @@ The Usable Software Ecosystem Research project (USER) is a research initiative t
 
 This project illuminated countless insights, from a close look into how a diverse set of SROSS projects and their contributors consider their users, to how they approach the usability and broader design aspects of their projects, to the complex and often contradictory ways in which they understand and build SROSS tools.
 
-Below we’ve crafted a summary of our key findings, which, though significant, fails to contain the true breadth and complexity captured in our [complete set of findings](https://user-project.superbloom.design/look-at-ecosystem). To understand these takeaways in context, please navigate to the linked associated chapters.  You’ll find after each finding there’s suggested sections associated with the findings should you want to discover more about a particular finding and then see [associated recommendations](#Recommendations) that we suggest implementing into your SROSS projects in order to address a challenge present in the finding.
+Below we’ve crafted a summary of our key findings, which, though significant, fails to contain the true breadth and complexity captured in our [complete set of findings](https://user-project.superbloom.design/part-1-the-state-of-sross/look-at-ecosystem/). To understand these takeaways in context, please navigate to the linked associated chapters.  You’ll find after each finding there’s suggested sections associated with the findings should you want to discover more about a particular finding and then see [associated recommendations](https://user-project.superbloom.design/findings/summary/#Recommendations) that we suggest implementing into your SROSS projects in order to address a challenge present in the finding.
 
 <hr>
 
@@ -17,7 +17,7 @@ Below we’ve crafted a summary of our key findings, which, though significant, 
 
 SROSS development often needs cross-disciplinary work. This can be challenging, as norms and common language need to be negotiated between different work cultures. In SROSS projects, there is often a disciplinary exchange between programmers and scientists. Add designers, and there is a third ‘language’ and working style. Effective cross-disciplinary collaboration ranges in strategy and process. Some projects prioritize mutual understanding and a state of continuous knowledge transfer between disciplines, while others take a more synergistic approach where each expert is able to excel in their domain without the burden of needing to know the ‘other’ discipline well. Regardless of the approach, mutual respect, communication and knowing the value of each role's contribution is vital to the success of design and usability in SROSS.
 
-**Find out more in sections:** Perceptions of design, Governance, Cross-disciplinary collaboration in SROSS, Designers’ experiences working with SROSS projects, Design work in the academic context, Design Challenges and Barriers.
+**Find out more in sections:** [Perceptions of design](https://user-project.superbloom.design/part-3-design/perceptions/), [Governance](https://user-project.superbloom.design/part-1-the-state-of-sross/governance/), [Cross-disciplinary collaboration in SROSS](https://user-project.superbloom.design/part-1-the-state-of-sross/collaboration/), [Designers’ experiences working with SROSS projects](https://user-project.superbloom.design/part-3-design/in-sross/), [Design work in the academic context](https://user-project.superbloom.design/part-3-design/in-academia/), [Design Challenges and Barriers](https://user-project.superbloom.design/part-3-design/challenges/).
 
 <br>
 
@@ -25,7 +25,7 @@ SROSS development often needs cross-disciplinary work. This can be challenging, 
 
 SROSS projects users claim values like openness, access and progress of science. Though ‘design’ itself is not stated as a central value, SROSS has an idea that usability, accessibility and user-centered improvements and practices enable the ethical values of understandable, reproducible and more robust scientific progress. The Open Source way of working is essential for the development and practice of better science.
 
-**Find out more in sections:** Feedback and knowing your users, Usability, Values and Attitudes of Open Science and Open Source, Design Challenges and Barriers.
+**Find out more in sections:** [Feedback and knowing your users](https://user-project.superbloom.design/part-2-project-operations/feedback-knowing-users/), [Usability](https://user-project.superbloom.design/part-2-project-operations/usability/), [Values and Attitudes of Open Science and Open Source](https://user-project.superbloom.design/part-1-the-state-of-sross/values-attitudes/), [Design Challenges and Barriers](https://user-project.superbloom.design/part-3-design/challenges/).
 
 
 <br>
@@ -33,7 +33,7 @@ SROSS projects users claim values like openness, access and progress of science.
 ### Openness, design and academia 
 Similarly to openness being an ethical development choice that SROSS builders believe makes for better science, they also believe openness challenges some of the difficult dynamics present in academia around ownership and competition for academic prowess. This doesn’t erase these challenges, but pushes against the assumed opposition of the individual vs. the collective. Academic bureaucracy and norms can also impede work, especially community- or user-driven processes. Academia also rarely recognises design and usability work (as is often the case with code too) and roles and often will name them differently or leverage students to produce design work as an alternative to design practitioners.
 
-**Find out more in sections:** Values and Attitudes of Open Science and Open Source, Design work in the academic context.
+**Find out more in sections:** [Values and Attitudes of Open Science and Open Source](https://user-project.superbloom.design/part-1-the-state-of-sross/values-attitudes/), [Design work in the academic context](https://user-project.superbloom.design/part-3-design/in-academia/).
 
 <br>
 
@@ -41,7 +41,7 @@ Similarly to openness being an ethical development choice that SROSS builders be
 
 Non-designer participants found prioritizing design as a key project value difficult. The participants say they believe design will help, but how to make space for design work was unknown at best or scary at worst.  Congruously, design and usability work is seen as less vital than the coding of new features and the fixing of bugs (even if design and usability improvements might solve these).
 
-**Find out more in sections:** Values and Attitudes of Open Science and Open Source, Design Challenges and Barriers, Prioritization, Funding and Sustainability.
+**Find out more in sections:** [Values and Attitudes of Open Science and Open Source](https://user-project.superbloom.design/part-1-the-state-of-sross/values-attitudes/), [Design Challenges and Barriers](https://user-project.superbloom.design/part-3-design/challenges/), [Prioritization](https://user-project.superbloom.design/part-2-project-operations/prioritization/), [Funding and Sustainability](https://user-project.superbloom.design/part-1-the-state-of-sross/funding-and-sustainability/).
 
 <br>
 
@@ -49,7 +49,7 @@ Non-designer participants found prioritizing design as a key project value diffi
 
 Whether projects establish design and usability practices depends on the perceived utility of design work; what non-designers define as design, usability, and accessibility; and the ease of implementing design changes. If design work is seen as time intensive, disruptive, requiring code overhaul, and/or frivolous, the implementation of design practices is unlikely. Even when design and usability are valued, many see it as optional, incidental, or aspirational. In this case, design implementation is only ‘worth it’ when it is clearly linked to the expansion of a user base. We observed this most potently in projects with diverse users. SROSS projects express that they want to improve tools and services. Dedicated design and usability work could help doing this, but SROSS projects do not often realize this. Good design and usability practices empower users, make tools easier to use, and require less immediate support from maintainers, which ultimately helps fulfil the purpose of research and scientific discovery.
 
-**Find out more in sections:** Design Challenges and Barriers, Values and Attitudes of Open Science and Open Source, Designers’ experiences working with SROSS projects, Design Challenges and Barriers, Accessibility, Funding and Sustainability.
+**Find out more in sections:** [Design practices and workflows](https://user-project.superbloom.design/part-3-design/practices/), [Design Challenges and Barriers](https://user-project.superbloom.design/part-3-design/challenges/), [Values and Attitudes of Open Science and Open Source](https://user-project.superbloom.design/part-1-the-state-of-sross/values-attitudes/), [Designers’ experiences working with SROSS projects](https://user-project.superbloom.design/part-3-design/in-sross/), [Design Challenges and Barriers](https://user-project.superbloom.design/part-3-design/challenges/), [Accessibility](https://user-project.superbloom.design/part-2-project-operations/accessibility/), [Funding and Sustainability](https://user-project.superbloom.design/part-1-the-state-of-sross/funding-and-sustainability/).
 
 <br>
 
@@ -57,7 +57,7 @@ Whether projects establish design and usability practices depends on the perceiv
 
 Accessibility was understood as the ‘findability’ of a project and how the project could be made useful for different scientific fields. Some described accessibility in terms that design professionals do – the practice of ensuring that tools are inclusive for users with physical or cognitive differences – but this was more often expressed by designers in SROSS. Usability similarly had differing definitions from multiple perspectives and connected into a users ‘skill level’ towards how they use/operate the technical functions of the SROSS such as whether a scientist/research can understand and use a string of code in a terminal program to run a command that executes a function in the SROSS.
 
-**Find out more in sections:** Accessibility, Usability, Design Challenges and Barriers, Perceptions of design, Designers’ experiences working with SROSS projects.
+**Find out more in sections:** [Accessibility](https://user-project.superbloom.design/part-2-project-operations/accessibility/), [Usability](https://user-project.superbloom.design/part-2-project-operations/usability/), [Design Challenges and Barriers](https://user-project.superbloom.design/part-3-design/challenges/), [Perceptions of design](https://user-project.superbloom.design/part-3-design/perceptions/), [Designers’ experiences working with SROSS projects](https://user-project.superbloom.design/part-3-design/in-sross/).
 
 <br>
 
@@ -66,7 +66,7 @@ Accessibility was understood as the ‘findability’ of a project and how the p
 SROSS projects incorporate their communities as a source of feedback for improvements. Participants reported that many user-focused practices – onboarding, feedback, training tutorials and support – are often fulfilled, in large part, by user communities themselves.
 Onboarding in particular is a responsibility that is passed off to communities of users. For instance, the burden of teaching a tool is often on professors, researchers, or students to teach each other. Tool feedback and troubleshooting – key components of user research – happens organically in user community channels such as Slack, Discourse, community calls, etc. Projects teams that are active and responsive in user channels are participating in informal user research, whether they recognize these user research methods or not.
 
-**Find out more in sections:** Onboarding, Documentation, Feedback and knowing your user.
+**Find out more in sections:** [Onboarding](https://user-project.superbloom.design/part-2-project-operations/onboarding/), [Documentation](https://user-project.superbloom.design/part-2-project-operations/documentation/), [Feedback and knowing your users](https://user-project.superbloom.design/part-2-project-operations/feedback-knowing-users/).
 
 <br>
 
@@ -74,7 +74,7 @@ Onboarding in particular is a responsibility that is passed off to communities o
 
 SROSS designers reported feeling isolated – often, they are the only designer in a project, field of science, or who contribute to the project ecosystem, and they have few opportunities to advocate for the value of design in governance processes. Currently, there are not many designers working in SROSS, so there is a lack of peer support and SROSS design-related resources. Designers often need to justify the value of design to their fellow contributors and educate them about how design and usability work. Design and designers are rarely part of SROSS governance conversations. This makes it challenging for contributors unfamiliar with design to embrace or learn about design practices, because it is not seen as foundational. There are few pathways for non-code contributions to projects, and project hierarchies tend not to favor the design contributions.
 
-**Find out more in sections:** Designers’ experiences working with SROSS projects, Perceptions of design, Design Practices and Workflows, Design work in the academic context, Design Challenges and Barriers.
+**Find out more in sections:** [Designers’ experiences working with SROSS projects](https://user-project.superbloom.design/part-3-design/in-sross/), [Design Challenges and Barriers](https://user-project.superbloom.design/part-3-design/challenges/), [Perceptions of design](https://user-project.superbloom.design/part-3-design/perceptions/), [Design practices and workflows](https://user-project.superbloom.design/part-3-design/practices/), [Design work in the academic context](https://user-project.superbloom.design/part-3-design/in-academia/).
 
 <br>
 
