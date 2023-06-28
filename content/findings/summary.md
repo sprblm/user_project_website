@@ -94,7 +94,7 @@ Below you will find the list of recommendations that the USER research team has 
 
 Usability improvements can reduce the time that maintainers, developers and community contributors spend writing step-by-step user guides and answering customer support requests when users are having difficulties with the tool.
 
-**Find out more in sections:** Design Challenges and Barriers, Onboarding 
+**Find out more in sections:** [Design Challenges and Barriers](https://user-project.superbloom.design/part-3-design/challenges/), [Onboarding](https://user-project.superbloom.design/part-2-project-operations/onboarding/)
 
 <br>
 
@@ -102,14 +102,14 @@ Usability improvements can reduce the time that maintainers, developers and comm
 Clear contribution paths allow potential contributors to understand where they are needed and how they can be most useful.
 Inclusivity increases contributions, because designers and other non-code contributors will see their work as valued and prioritized.
 
-**Find out more in sections:** Onboarding, Designers’ experiences working with SROSS projects
+**Find out more in sections:** [Onboarding](https://user-project.superbloom.design/part-2-project-operations/onboarding/), [Designers’ experiences working with SROSS projects](https://user-project.superbloom.design/part-3-design/in-sross/).
 
 <br>
 
 ### Develop resources, community spaces, shared channels, and information repositories for SROSS design. 
 If OSS/SROSS designers share experiences and learn from each other, they can help shape best practices and reduce barriers for designers new to the ecosystem. Also, including designers in OSS/SROSS maintainer channels, and vice-versa, will help increase designer/developer collaboration and provide guidance to projects without a designer on the team.
 
-**Find out more in sections:** Design Challenges and Barriers, Governance
+**Find out more in sections:** [Design Challenges and Barriers](https://user-project.superbloom.design/part-3-design/challenges/), [Governance](https://user-project.superbloom.design/part-1-the-state-of-sross/governance/)
 
 
 <br>
