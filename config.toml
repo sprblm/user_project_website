@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Usable Software Ecosystem Research"
-baseURL = "https://subtle-medovik-58f1c6.netlify.app"
+baseURL = "https://user-project.superbloom.design"
 canonifyURLs = true
 theme = "cupper"
 publishDir = "docs"
