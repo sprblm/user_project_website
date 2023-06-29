@@ -1,7 +1,6 @@
 ---
 title: Glossary & terminology
 slug: glossary-and-terminology
-weight: 8
 ---
 **Open Source:** “Open Source” can have two related meanings: 
 
@@ -10,6 +9,8 @@ weight: 8
 
 We use Open Source in the first sense (as a shorter variant of Free/Libre/Open Source Software), but in conversations, particularly among FLOSS enthusiasts, it can be important to be aware of the other meaning.
 
+
+**Acceptance criteria:** Typically added to a Github issue or a distinct piece of work as a set of rules to measure how successfully the issue solution/work meets certain criteria.
 
 **Citation:** Usually the reference to the source of an assertion. Being cited by other researchers is the major source of merit for a researcher. There are people arguing that software used in research projects should also be cited. 
 
