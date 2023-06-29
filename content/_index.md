@@ -19,3 +19,11 @@ We investigated how norms in academic, science, and/or open source working envir
 - How do the resources, tools and infrastructure in use affect when a project team decides to prioritize usability, and when is that most successful?
 
 - How do creators of open source research software think and act in relation to the users of their software? What are the heuristics that drive the development of their software?
+
+# Explore the research findings
+
+The best way to explore the research findings is to start with our [USER: Executive Summary](https://user-project.superbloom.design/findings/summary/). You'll find a brief overview of what we learned as well as actionable recommendations with relevant findings sections linked to either a finding or a recommendation.
+
+If you'd like to read the findings in a linear format you can then start from the first chapter [A look at the ecosystem](https://user-project.superbloom.design/part-1-the-state-of-sross/look-at-ecosystem/).
+
+There's more to discover in the USER project such as [articles and writing](https://user-project.superbloom.design/about/project-journey/) about our progress through the research, our [Positionality](https://user-project.superbloom.design/about/positionality/) as researchers on this project,[Zines](https://user-project.superbloom.design/about/zines/) we distributed at Science and Research OSS conferences, a [social systems map](https://user-project.superbloom.design/about/social-systems-map/) and [ecosystem map](https://user-project.superbloom.design/about/ecosystem-map/), a [Design Readiness Assessment for Open Source Projects](https://user-project.superbloom.design/about/rubric/) to fill out for your projects and finally [Design curriculum for Science & Research OSS](https://user-project.superbloom.design/about/design-curriculum/).
