@@ -33,7 +33,7 @@ Science and Research OSS projects assume that, a 'good onboarding' experience me
 
 A solo developer maintainer for an audio processing OSS tool stated:
 
-_“Went through tutorial - was easy and people are citing and using it in paper after some kind of tutorial - 1 day to a week and come back with a specific need - not that they aren’t productive.” _
+_“Went through tutorial - was easy and people are citing and using it in paper after some kind of tutorial - 1 day to a week and come back with a specific need - not that they aren’t productive.”_
 
 This version of ‘good’ for onboarding doesn’t take into account a critical component discovered in our research, when the user of an OSS tool moves from ‘getting started’ with basic operations and processes through to a research-specific and potentially unique, new way of using or manipulating the OSS tool. This understanding of ‘good onboarding’ appears to be unmeasured by the project and more of a ‘hunch’ they get from the user patterns - where our data suggests that there are multiple factors involved with users 'persevering’ through an onboarding experience depending on how critical that OSS may be to their own academic or research goals. There are 2 key data points we discovered to support this:
 
@@ -86,7 +86,7 @@ One developer of an Ethnography platform details how users “Need to know some 
 
 We also find that there are data processing related expectations that are not included within an onboarding process. Here a developer of a data analysis and visualization OSS speaks about the users needing to understand what they want their visualizations to be expressed as in order to find the order of operations in the tool to achieve that.
 
-_“You need some knowledge about spatial data and how you look at that …and then …what your goal visualization is, I think \[OSS tool] lets you explore some very basic things... I think there's not a huge amount of knowledge that you have to have going in, but you definitely have to be willing to explore and poke around and try a bunch of things and, you know, stuffs not going to work necessarily the first time.” _
+_“You need some knowledge about spatial data and how you look at that …and then …what your goal visualization is, I think \[OSS tool] lets you explore some very basic things... I think there's not a huge amount of knowledge that you have to have going in, but you definitely have to be willing to explore and poke around and try a bunch of things and, you know, stuffs not going to work necessarily the first time.”_
 
 ## When we see ‘designed’ or ‘user centered’ onboarding experiences, these are best guesses and appear to struggle to understand how to build an onboarding experience that takes into account multiple complex and faceted entry, exit and reentry points to the use of the Science and Research OSS
 
