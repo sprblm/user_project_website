@@ -9,11 +9,11 @@ Feel free to download, print, fold, and distribute at your next conference or ev
 
 **Zine 1: An Overview of the USER Project**
 
-[Print-friendly version](/images/Zine%20Art/Sloan%20Zines%20-%201.%20Print%20friendly%20-%209th%20May.jpg)
+[Print-friendly version](/images/sloan_zines-1-screen-reading-friendly—9th-may.png)
 
-[Screen-friendly version](/images/Zine%20Art/Sloan%20Zines%20-%201.%20Screen-reading%20friendly%20%E2%80%94%C2%A09th%20May.jpg)
+[Screen-friendly version](/images/sloan_zines-1-screen-reading-friendly—9th-may.png)
 
-![Zine 1: an Overview of the USER Project image. ](/images/Zine%20Art/Sloan%20Zines%20-%201.%20Screen-reading%20friendly%20%E2%80%94%C2%A09th%20May.jpg)
+![Zine 1: an Overview of the USER Project image. ](/images/sloan_zines-1-screen-reading-friendly—9th-may.png)
 
 **Zine 2.1: Working with Designers in Science and Research OSS**
 
