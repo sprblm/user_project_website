@@ -4,11 +4,11 @@ slug: ecosystem-map
 author: Katie Wilson
 weight: 4
 ---
-**To see the true range of projects we spoke with, in discipline, size, and scope, take a look at our **[**ecosystem map**](/about/ecosystem-map/)**. If your project team would like to be added, please **[**submit an issue here. **](https://github.com/simplysecure/USER_project/issues/new)
+To see the true range of projects we spoke with, in discipline, size, and scope, take a look at our [**ecosystem map**](/about/ecosystem-map/). If your project team would like to be added, please [**submit an issue here.**](https://github.com/simplysecure/USER_project/issues/new)
 
-![A snapshot of our ecosystem map, which was created on Miro](/images/screen shot 2023-06-12 at 1.46.43 pm.png)
+![A snapshot of our ecosystem map, which was created on Miro](/images/ecosystem_map.png)
 
-**Disciplines represented: **
+**Disciplines represented:**
 
 * Vocal behavior
 * Geophysics 

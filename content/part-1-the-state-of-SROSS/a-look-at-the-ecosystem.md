@@ -10,13 +10,13 @@ The researchers and technologists we spoke with found their way to SROSS project
 
 There was broad acknowledgment from participants that a large part of the appeal, interest, and passion that comes with working on OSS comes from the community of maintainers and users. One Drupal enthusiast from Brazil shared that in the Drupal community:  “the people are all using the technology and the software as an excuse to meet and share, but of course we are passionate about the technology, which all brought us together.” Along with shared interest and passion, the OSS community “usually takes \[a project] on and we get feedback or it takes a life of its own and people develop it and make it a lot better than it was at the beginning.”  Impact, scientific progress, and commitment to OSS are all values we saw in the participants’ responses, and are explored in the following chapter. 
 
-**To see the true range of projects we spoke with, in discipline, size, and scope, take a look at our **[**ecosystem map**](/about/ecosystem-map/)**. If your project team would like to be added, please **[**submit an issue here. **](https://github.com/simplysecure/USER_project/issues/new)
+To see the true range of projects we spoke with, in discipline, size, and scope, take a look at our [**ecosystem map**](/about/ecosystem-map/). If your project team would like to be added, please [**submit an issue here.**](https://github.com/simplysecure/USER_project/issues/new)
 
-![A snapshot of our ecosystem map, which was created on Miro](/images/screen shot 2023-06-12 at 1.46.43 pm.png)
+![A snapshot of our ecosystem map, which was created on Miro](/images/ecosystem_map.png)
 
 
 
-**Disciplines represented: **
+**Disciplines represented:**
 
 * Vocal behavior
 * Geophysics 

@@ -6,5 +6,5 @@ theme = "cupper"
 publishDir = "docs"
 
 [params]
-  description = "Researching how usability and design presents in scientific open source software, with the goal of investigating what are the conditions that enable scientific open source teams to prioritize and focus on usability successfully. This work is supported by the Sloan Foundation."
+  description = "Researching usability and design in scientific open source software, with support from the Alfred P. Sloan Foundation."
   codePenUser = "Heydon"

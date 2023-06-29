@@ -22,7 +22,7 @@ Many projects acknowledged that scientists typically do not have coding skills a
 
 ## Effective cross-disciplinary collaboration ranges in strategy and process. On the one hand, some projects prioritize mutual understanding and a state of continuous knowledge transfer between disciplines, while others take a more synergistic approach where each expert is able to excel in their domain without the burden of needing to know the “other” discipline well. 
 
-_“I don't have a PHD in astrophysics but I work with people who do, and my favorite hobby is asking questions.” _
+_“I don't have a PHD in astrophysics but I work with people who do, and my favorite hobby is asking questions.”_
 
 Some maintainers of projects were very interested in a kind of exchange-based collaboration between the developers and scientists on their team. Some approach this from an accessibility perspective, looking to lower the barrier of entry to code contributions or what code is doing in a project. One maintainer noted, “there's a lot of people that would use our system that aren't computational scientists. So all the code that I write, I really try and make sure that it's as accessible as possible for someone who might not have coding background.” Beyond code, this strategy comes up in process and language as well. Some participants explained that they’re cognizant to ensure they’re “not making assumptions in the language that we use” when explaining OS systems to scientists. 
 

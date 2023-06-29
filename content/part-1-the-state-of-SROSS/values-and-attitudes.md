@@ -18,7 +18,7 @@ While many discussed the utility of openness and the ability for users to contri
 
 **OSS is an ethical choice**
 
-_“If you get to put profit aside entirely and it's all about sharing knowledge, it’s really hard to argue that things shouldn’t be open.” _
+_“If you get to put profit aside entirely and it's all about sharing knowledge, it’s really hard to argue that things shouldn’t be open.”_
 
 _“More often than not doing things in the open is the right thing to do.”_
 
@@ -26,7 +26,7 @@ Many participants explained their affinity to Open Source and open practices was
 
 **OS is practical - despite recurring complications around maintenance and financing, the use and ideology behind OS is practical in essence.**
 
-_ “For an analysis tool, it makes perfect sense for it to all be open, because you're literally going to be coding it”_
+_“For an analysis tool, it makes perfect sense for it to all be open, because you're literally going to be coding it”_
 
 Beyond ethics, many participants referred to OS as an obviously practical way of working. In simple terms, it “makes the software better.” Some emphasized that, more than anything, it’s free, which is an inherent advantage. Two people mentioned that it enables researchers in the US to get government funding, because the US government requires the projects they support to be built with open-sourced code. As researchers, some respondents highlighted the practicality of OS in supporting research. OS projects enable research values such as open data, open access to information, and reuse of research infrastructure (like formats and metadata). Two respondents pointed out that other researchers, scientists, and academics are drawn to being part of “free knowledge movements” and that the free and open environments that OS projects cultivate are a factor in attracting new project contributors.
 
@@ -36,7 +36,7 @@ OS’s practical value is also rooted in its adaptability. Multiple participants
 
 ## Open Source improves and furthers scientific work and progress. 
 
-_“One of the core tenets of science is that it needs to be reproducible. That's how we establish facts. With models that are developed based on computer code, it's 100% essential that that code is shared openly so that other people can run it for themselves and prove that they are getting the same results.” _
+_“One of the core tenets of science is that it needs to be reproducible. That's how we establish facts. With models that are developed based on computer code, it's 100% essential that that code is shared openly so that other people can run it for themselves and prove that they are getting the same results.”_
 
 _“Openness leads to better science”_
 
@@ -50,7 +50,7 @@ Following the spirit of optimism for the “good of science” noted by particip
 
 Participants also emphasized that working in the open enables them to do “simple things” that are, for many reasons both cultural and institutional, difficult to achieve within academic circumstances. For example, storage of data and content for reuse and access over time is often tied up in ownership and rights issues within institutions. One respondent said that through open source practices:
 
-_“We are simply talking about storing content, and augmenting the chances that you can find it back. So the idea that if you publish an article, you should be able to find it associated with data that allows you to reuse them.” _
+_“We are simply talking about storing content, and augmenting the chances that you can find it back. So the idea that if you publish an article, you should be able to find it associated with data that allows you to reuse them.”_
 
 The same respondent went on to explain that commonly, researchers run into frustrations, like your data being in “an institutional repository there in your old computer that is broken.” Open licenses allow researchers to access their data even if they don't work at the institution any longer. 
 
@@ -64,7 +64,7 @@ While nearly all participants espoused the virtues of Open Source, many identifi
 
 On the other hand, some urged that the pressures on people working in academic contexts can lead to competition and secrecy at the expense of openness. One participant shared: 
 
-_“We may think that the kind of culture of open science is idealistic and better than commerce, but in reality, professors are extremely competitive, labs are extremely competitive, and everyone is trying to get their little piece of the pie.” _
+_“We may think that the kind of culture of open science is idealistic and better than commerce, but in reality, professors are extremely competitive, labs are extremely competitive, and everyone is trying to get their little piece of the pie.”_
 
 A lot of this scarcity mindset is framed by the need to publish, limited resources, and fears that sharing one’s tools, data, or findings will undermine the value of a potential publication with respect to the author’s career growth
 

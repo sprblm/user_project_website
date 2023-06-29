@@ -26,11 +26,11 @@ All these communication methods are also used by software developers for writing
 
 There is a strong focus on what people on these channels say they need. As one interview participant said:  
 
-_“\[we] see ourselves essentially having like a set of stakeholders, as opposed to necessarily \[a] set of users. So we have some users that are people that just want to do something, right, they want to do some science, they want to do some research and, and the system, the software that we build may enable them to do that.” _
+_“\[we] see ourselves essentially having like a set of stakeholders, as opposed to necessarily \[a] set of users. So we have some users that are people that just want to do something, right, they want to do some science, they want to do some research and, and the system, the software that we build may enable them to do that.”_
 
 The “community need” was the strongest pressure on software development in our survey, even slightly larger than the obvious “research need.”
 
-![Chart of survey responses answering the question: What other pressures primarily drive your project’s work? (If any).](/images/what other pressures primarily drive your project’s work_.png)
+![Chart of survey responses answering the question: What other pressures primarily drive your project’s work? (If any).](/images/sense_who_are_your_users.png)
 
 ## Communication channels are structured around the activities of developers
 
@@ -52,13 +52,13 @@ The pattern of knowing users but not using formal methods or designating separat
 
 Only few projects mentioned thew worked with UX/UI designers: 
 
-![Chart from survey responses answering the question: Has your team ever included a designer (either graphic, interface or user experience design-focussed)? ](/images/has your team ever included a designer (either graphic, interface or user experience design-focussed)_ .png)
+![Chart from survey responses answering the question: Has your team ever included a designer (either graphic, interface or user experience design-focussed)? ](/images/included_designer.png)
 
 This matches our observation that most projects did not use methods of UX professionals to get to know their users. “Knowing users well” for UX professionals usually implies a process of research: conducting data via interviews, observations, and surveys. They synthesize this data and create formal abstractions like “personas”, “scenarios” or “user journeys”, genres of documents that summarize what they learned about users. None of our projects had such research and representations. If at all, they used low-resource methods of testing existing parts of the software.
 
 However, despite usually not having a single project member tasked with learning about users, most projects had the impression they know their users well. Not a single participant in our survey answered “No” to the question: “Do you feel you have a good sense of who the users of your project are?” 
 
-![Chart from survey answering the question: Do you feel you have a good sense of who the users of your project are?](/images/do you feel you have a good sense of who the users of your project are_.png)
+![Chart from survey answering the question: Do you feel you have a good sense of who the users of your project are?](/images/sense_who_are_your_users.png)
 
 ## Conclusion
 
