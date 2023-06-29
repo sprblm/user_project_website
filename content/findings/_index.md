@@ -1,5 +1,5 @@
 ---
-title: Process
+title: Research Process
 slug: process
 author: Katie Wilson
 ---
