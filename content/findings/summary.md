@@ -118,7 +118,7 @@ If OSS/SROSS designers share experiences and learn from each other, they can hel
 
 SROSS project teams limited by time and resources might assume design and UX improvements will be a large undertaking. In many cases, design and usability improvements do not require overhauling the code.
 
-**Find out more in sections:** Designers’ experiences working with SROSS projects, Design Challenges and Barriers, Prioritization
+**Find out more in sections:** [Designers’ experiences working with SROSS projects](https://user-project.superbloom.design/part-3-design/in-sross/), [Design Challenges and Barriers](https://user-project.superbloom.design/part-3-design/challenges/), [Prioritization](https://user-project.superbloom.design/part-2-project-operations/prioritization/)
 
 
 <br>
@@ -126,14 +126,14 @@ SROSS project teams limited by time and resources might assume design and UX imp
 ### In contrast to the above, ensure a project has sufficient capacity to scope and support the work that the designer undertakes. 
 Design is a non-trivial practice and requires space, time, and resources. Design and usability improvements may require development time. Collaboration will increase efficiency and reduce bottlenecks.
 
-**Find out more in sections:** Prioritization, Perceptions of Design
+**Find out more in sections:** [Prioritization](https://user-project.superbloom.design/part-2-project-operations/prioritization/), [Perceptions of Design](https://user-project.superbloom.design/part-3-design/perceptions/)
 
 <br>
 
 ### Celebrate the value of design in SROSS with active acknowledgement, accolades, and references. 
 Open source culture celebrates code contributions regularly (merged code, closed issues). By celebrating design contributions, the community can show that design and usability is essential for project success. Designers will feel recognized, which will allow for retention and growth of the SROSS designer community.
 
-**Find out more in sections:** Governance, Values and Attitudes of Open Science and Open Source, Usability
+**Find out more in sections:** [Governance](https://user-project.superbloom.design/part-1-the-state-of-sross/governance/), [Values and Attitudes of Open Science and Open Source](https://user-project.superbloom.design/part-1-the-state-of-sross/values-attitudes/), [Usability](https://user-project.superbloom.design/part-2-project-operations/usability/)
 
 <br>
 
@@ -143,14 +143,14 @@ Open source culture celebrates code contributions regularly (merged code, closed
 ### Establish a common language around design and usability. 
 Different contributors will have different understandings of what 'design' and 'usability' mean. Agreeing at the outset what the design/usability needs are and how they will be tackled can help shape a common vocabulary. It helps create a baseline of knowledge sharing, mutual respect, and curiosity.
 
-**Find out more in sections:** Perception of design, Usability, Cross-disciplinary collaboration in SROSS, Governance
+**Find out more in sections:** [Perception of design](https://user-project.superbloom.design/part-3-design/perceptions/), [Usability](https://user-project.superbloom.design/part-2-project-operations/usability/), [Cross-disciplinary collaboration in SROSS](https://user-project.superbloom.design/part-1-the-state-of-sross/collaboration/), [Governance](https://user-project.superbloom.design/part-1-the-state-of-sross/governance/)
 
 <br>
 
 ### Spend dedicated time at the outset to get to know the project team’s different disciplines and workflows. 
 Any given SROSS project can include maintainers from varying disciplines, perspectives, and skillsets. While each party does not need to understand their colleagues’ work in expert-level depth, understanding each others’ approaches will lead to more efficient work and successful collaboration.
 
-**Find out more in sections:** Design Practices and Workflows, Design Challenges and Barriers, Governance, Prioritization
+**Find out more in sections:** [Design Practices and Workflows](https://user-project.superbloom.design/part-3-design/practices/), [Design Challenges and Barriers](https://user-project.superbloom.design/part-3-design/challenges/), [Governance](https://user-project.superbloom.design/part-1-the-state-of-sross/governance/), [Prioritization](https://user-project.superbloom.design/part-2-project-operations/prioritization/)
 
 
 <br>
@@ -158,14 +158,14 @@ Any given SROSS project can include maintainers from varying disciplines, perspe
 ### Incorporate design and usability language and processes in product planning. 
 Outlining design and usability activities as a critical part of the plan from the outset would reduce friction later in the process. This can also help shift perceptions and support project leads and contributors prioritize UX/UI.
 
-**Find out more in sections:** Cross-disciplinary collaboration in SROSS, Prioritization, Governance
+**Find out more in sections:** [Cross-disciplinary collaboration in SROSS](https://user-project.superbloom.design/part-1-the-state-of-sross/collaboration/), [Prioritization](https://user-project.superbloom.design/part-2-project-operations/prioritization/), [Governance](https://user-project.superbloom.design/part-1-the-state-of-sross/governance/)
 
 <br>
 
 ### Support and include designers and usability experts in governance and standards discussions. 
 Giving designers a seat at the table will legitimize design/UX as a core component of SROSS success. Via these discussions, designers can help shift all SROSS practices to be more user-centered.
 
-**Find out more in sections:** Governance, Designers’ experiences working with SROSS projects, Design Challenges and Barriers
+**Find out more in sections:** [Governance](https://user-project.superbloom.design/part-1-the-state-of-sross/governance/), [Designers’ experiences working with SROSS projects](https://user-project.superbloom.design/part-3-design/in-sross/), [Design Challenges and Barriers](https://user-project.superbloom.design/part-3-design/challenges/)
 
 <br>
 
@@ -173,7 +173,7 @@ Giving designers a seat at the table will legitimize design/UX as a core compone
 
 Involving people with impairments in the building, maintaining, coding and design of SROSS helps shape more effective platforms and reduces needs for changes later. Forming a working group or community for those who identify as such would enable a stronger platform for advocacy of needs.
 
-**Find out more in sections:** Accessibility, Governance, Feedback and knowing your users
+**Find out more in sections:** [Accessibility](https://user-project.superbloom.design/part-2-project-operations/accessibility/), [Governance](https://user-project.superbloom.design/part-1-the-state-of-sross/governance/), [Feedback and knowing your users](https://user-project.superbloom.design/part-2-project-operations/feedback-knowing-users/)
 
 <br>
 
@@ -183,39 +183,39 @@ Involving people with impairments in the building, maintaining, coding and desig
 ### Participate in existing user communities as a lightweight way to better understand users.
 Active users and developers will often communicate via mailing lists, community forums, and open community calls. Observing or participating in existing community channels helps maintainers understand how the user community is using the software, what their needs are, and how to reach them.
 
-**Find out more in sections:** Feedback and Knowing your Users, Design Practices and Workflows
+**Find out more in sections:** [Feedback and Knowing your Users](https://user-project.superbloom.design/part-2-project-operations/feedback-knowing-users/), [Design Practices and Workflows](https://user-project.superbloom.design/part-3-design/practices/)
 
 <br>
 
 ### Use UX methods to represent a wider community of users. 
 Direct communication in projects often represents only the most active community members' needs. Beginners, occasional users, and users who do not have time and resources to participate are often not represented.
 
-**Find out more in sections:** Feedback and Knowing your Users, Onboarding, Accessibility
+**Find out more in sections:** [Feedback and Knowing your Users](https://user-project.superbloom.design/part-2-project-operations/feedback-knowing-users/), [Onboarding](https://user-project.superbloom.design/part-2-project-operations/onboarding/), [Accessibility](https://user-project.superbloom.design/part-2-project-operations/accessibility/)
 
 <br>
 
 ### Prioritize clear, accessible documentation and ensure its discoverability.
 Navigable tutorials and documentation explaining features and related concepts helps users and contributors get started on their own, promotes adoption, and saves valuable time. Documentation is most effective when easy to find and applicable to a broad spectrum of users.
 
-**Find out more in sections:** Documentation, Accessibility
+**Find out more in sections:** [Documentation](https://user-project.superbloom.design/part-2-project-operations/documentation/), [Accessibility](https://user-project.superbloom.design/part-2-project-operations/accessibility/)
 
 <br>
 
 ### Incorporate user-centered design practices as part of onboarding.
 Onboarding is key to project growth in terms of more users and contributors. Projects may grow beyond their initial use case, so capturing user needs as part of the onboarding process can help inform user-centered improvements.
 
-**Find out more in sections:** Onboarding, Accessibility
+**Find out more in sections:** [Onboarding](https://user-project.superbloom.design/part-2-project-operations/onboarding/), [Accessibility](https://user-project.superbloom.design/part-2-project-operations/accessibility/)
 
 <br>
 
 ### Create models out of projects that have adopted accessibility, design, and usability best practices. 
 Case studies of projects that incorporate best practices could inspire the projects that believe these activities are complicated. Open, clear, and thorough documentation allows other projects to borrow the pieces that would work for them.
 
-**Find out more in sections:**  Accessibility, Usability, Design Practices and Workflows, Designers’ experiences working with SROSS projects, Governance, Funding and Sustainability
+**Find out more in sections:**  [Accessibility](https://user-project.superbloom.design/part-2-project-operations/accessibility/), [Usability](https://user-project.superbloom.design/part-2-project-operations/usability/), [Design Practices and Workflows](https://user-project.superbloom.design/part-3-design/practices/), [Designers’ experiences working with SROSS projects](https://user-project.superbloom.design/part-3-design/in-sross/), [Governance](https://user-project.superbloom.design/part-1-the-state-of-sross/governance/), [Funding and Sustainability](https://user-project.superbloom.design/part-1-the-state-of-sross/funding-and-sustainability/)
 
 <br>
 
 ### Create standards for terminology and processes around design, usability, and user research that can be adapted by others.
 ​​Common processes and terminology on design, usability and user research can be included in governance documents. These could serve as templates to be loaded into a repository or copy and pasted as needed for other projects.
 
-**Find out more in sections:** Design Challenges and Barriers, Values and Attitudes of Open Science and Open Source
+**Find out more in sections:** [Design Challenges and Barriers](https://user-project.superbloom.design/part-3-design/challenges/), [Values and Attitudes of Open Science and Open Source](https://user-project.superbloom.design/part-1-the-state-of-sross/values-attitudes/)
