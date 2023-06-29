@@ -17,24 +17,27 @@ Feel free to download, print, fold, and distribute at your next conference or ev
 
 **Zine 2.1: Working with Designers in Science and Research OSS**
 
-[Print-friendly version](/images/Zine%20Art/Sloan%20Zines%20-%202.1.%20Print%20friendly%20-%20June%201st.jpg)
+[Print-friendly version](
+/images/Sloan-Zines-2-1-Print-friendly-June-1st.jpg)
 
-[Screen-friendly version](/images/Zine%20Art/Sloan%20Zines%20-%202.1.%20Screen%20reading%20friendly%20-%20June%201st.jpg)
+[Screen-friendly version](
+/images/Sloan-Zines-2-1-Screen-reading-friendly-June-1st.jpg)
 
-![Zine 2: Working with Designers in Science and Research OSS image](/images/Zine%20Art/Sloan%20Zines%20-%202.1.%20Screen%20reading%20friendly%20-%20June%201st.jpg)
+![Zine 2.1: Working with Designers in Science and Research OSS image](
+/images/Sloan-Zines-2-1-Screen-reading-friendly-June-1st.jpg)
 
 **Zine 2.2: How can we work together? Design + Science & Research + Development in OSS**
 
-[Print-friendly version](/images/Zine%20Art/Sloan%20Zines%20-%202.2.%20Print%20friendly%20-%20June%2021st.jpg)
+[Print-friendly version](/images/Sloan-Zines-2-2-Print-friendly-June-21st.jpg)
 
-[Screen-friendly version](/images/Zine%20Art/Sloan%20Zines%20-%202.2.%20Screen%20reading%20friendly%20-%20June%2021st.jpg)
+[Screen-friendly version](/images/Sloan-Zines-2-2-Screen-reading-friendly-June-21st.jpg)
 
-![Zine 2.2: How can we work together? Design + Science & Research + Development in OSS](/images/Zine%20Art/Sloan%20Zines%20-%202.2.%20Screen%20reading%20friendly%20-%20June%2021st.jpg)
+![Zine 2.2: How can we work together? Design + Science & Research + Development in OSS](/images/Sloan-Zines-2-2-Screen-reading-friendly-June-21st.jpg)
 
 **Zine 2.3: Information Developers and Researchers should know about Designers**
 
-[Print-friendly version](/images/Zine%20Art/Sloan%20Zines%20-%202.3.%20Print%20friendly%20-%20June%2021st.jpg)
+[Print-friendly version](/images/Sloan-Zines-2-3-Print-friendly-June-21st.jpg)
 
-[Screen-friendly version](/images/Zine%20Art/Sloan%20Zines%20-%202.3.%20Screen%20reading%20friendly%20-%20June%2021st.jpg)
+[Screen-friendly version](/images/Sloan-Zines-2-3-Screen-reading-friendly-June-21st.jpg)
 
-![Zine 2.3: Information Developers and Researchers should know about Designers](/images/Zine%20Art/Sloan%20Zines%20-%202.3.%20Screen%20reading%20friendly%20-%20June%2021st.jpg)
+![Zine 2.3: Information Developers and Researchers should know about Designers](/images/Sloan-Zines-2-3-Screen-reading-friendly-June-21st.jpg)
