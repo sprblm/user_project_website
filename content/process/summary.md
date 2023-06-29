@@ -1,6 +1,7 @@
 ---
 title: 'USER: Executive Summary'
 slug: summary
+weight: 1
 author: 'Eriol Fox, Susan Kennedy'
 featuredImage: /images/line-art-user-blackboard.png
 ---
