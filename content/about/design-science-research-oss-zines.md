@@ -9,7 +9,7 @@ Feel free to download, print, fold, and distribute at your next conference or ev
 
 **Zine 1: An Overview of the USER Project**
 
-[Print-friendly version](/images/sloan_zines-1-screen-reading-friendly—9th-may.png)
+[Print-friendly version](/images/Sloan-Zines-1-Print-friendly-9th-May.jpg)
 
 [Screen-friendly version](/images/sloan_zines-1-screen-reading-friendly—9th-may.png)
 
