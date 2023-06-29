@@ -9,32 +9,32 @@ Feel free to download, print, fold, and distribute at your next conference or ev
 
 **Zine 1: An Overview of the USER Project**
 
-[Print-friendly version](https://github.com/simplysecure/USER_project/blob/main/images/Zine%20Art/Sloan%20Zines%20-%201.%20Print%20friendly%20-%209th%20May.jpg)
+[Print-friendly version](/images/Zine%20Art/Sloan%20Zines%20-%201.%20Print%20friendly%20-%209th%20May.jpg)
 
-[Screen-friendly version](https://github.com/simplysecure/USER_project/blob/main/images/Zine%20Art/Sloan%20Zines%20-%201.%20Screen-reading%20friendly%20%E2%80%94%C2%A09th%20May.jpg)
+[Screen-friendly version](/images/Zine%20Art/Sloan%20Zines%20-%201.%20Screen-reading%20friendly%20%E2%80%94%C2%A09th%20May.jpg)
 
-![Zine 1: an Overview of the USER Project image. ](https://github.com/simplysecure/USER_project/blob/main/images/Zine%20Art/Sloan%20Zines%20-%201.%20Screen-reading%20friendly%20%E2%80%94%C2%A09th%20May.jpg)
+![Zine 1: an Overview of the USER Project image. ](/images/Zine%20Art/Sloan%20Zines%20-%201.%20Screen-reading%20friendly%20%E2%80%94%C2%A09th%20May.jpg)
 
 **Zine 2.1: Working with Designers in Science and Research OSS**
 
-[Print-friendly version](https://github.com/simplysecure/USER_project/blob/main/images/Zine%20Art/Sloan%20Zines%20-%202.1.%20Print%20friendly%20-%20June%201st.jpg)
+[Print-friendly version](/images/Zine%20Art/Sloan%20Zines%20-%202.1.%20Print%20friendly%20-%20June%201st.jpg)
 
-[Screen-friendly version](https://github.com/simplysecure/USER_project/blob/main/images/Zine%20Art/Sloan%20Zines%20-%202.1.%20Screen%20reading%20friendly%20-%20June%201st.jpg)
+[Screen-friendly version](/images/Zine%20Art/Sloan%20Zines%20-%202.1.%20Screen%20reading%20friendly%20-%20June%201st.jpg)
 
-![Zine 2: Working with Designers in Science and Research OSS image](https://github.com/simplysecure/USER_project/blob/main/images/Zine%20Art/Sloan%20Zines%20-%202.1.%20Screen%20reading%20friendly%20-%20June%201st.jpg)
+![Zine 2: Working with Designers in Science and Research OSS image](/images/Zine%20Art/Sloan%20Zines%20-%202.1.%20Screen%20reading%20friendly%20-%20June%201st.jpg)
 
 **Zine 2.2: How can we work together? Design + Science & Research + Development in OSS**
 
-[Print-friendly version](https://github.com/simplysecure/USER_project/blob/main/images/Zine%20Art/Sloan%20Zines%20-%202.2.%20Print%20friendly%20-%20June%2021st.jpg)
+[Print-friendly version](/images/Zine%20Art/Sloan%20Zines%20-%202.2.%20Print%20friendly%20-%20June%2021st.jpg)
 
-[Screen-friendly version](https://github.com/simplysecure/USER_project/blob/main/images/Zine%20Art/Sloan%20Zines%20-%202.2.%20Screen%20reading%20friendly%20-%20June%2021st.jpg)
+[Screen-friendly version](/images/Zine%20Art/Sloan%20Zines%20-%202.2.%20Screen%20reading%20friendly%20-%20June%2021st.jpg)
 
-![Zine 2.2: How can we work together? Design + Science & Research + Development in OSS](https://github.com/simplysecure/USER_project/blob/main/images/Zine%20Art/Sloan%20Zines%20-%202.2.%20Screen%20reading%20friendly%20-%20June%2021st.jpg)
+![Zine 2.2: How can we work together? Design + Science & Research + Development in OSS](/images/Zine%20Art/Sloan%20Zines%20-%202.2.%20Screen%20reading%20friendly%20-%20June%2021st.jpg)
 
 **Zine 2.3: Information Developers and Researchers should know about Designers**
 
-[Print-friendly version](https://github.com/simplysecure/USER_project/blob/main/images/Zine%20Art/Sloan%20Zines%20-%202.3.%20Print%20friendly%20-%20June%2021st.jpg)
+[Print-friendly version](/images/Zine%20Art/Sloan%20Zines%20-%202.3.%20Print%20friendly%20-%20June%2021st.jpg)
 
-[Screen-friendly version](https://github.com/simplysecure/USER_project/blob/main/images/Zine%20Art/Sloan%20Zines%20-%202.3.%20Screen%20reading%20friendly%20-%20June%2021st.jpg)
+[Screen-friendly version](/images/Zine%20Art/Sloan%20Zines%20-%202.3.%20Screen%20reading%20friendly%20-%20June%2021st.jpg)
 
-![Zine 2.3: Information Developers and Researchers should know about Designers](https://github.com/simplysecure/USER_project/blob/main/images/Zine%20Art/Sloan%20Zines%20-%202.3.%20Screen%20reading%20friendly%20-%20June%2021st.jpg)
+![Zine 2.3: Information Developers and Researchers should know about Designers](/images/Zine%20Art/Sloan%20Zines%20-%202.3.%20Screen%20reading%20friendly%20-%20June%2021st.jpg)
