@@ -7,9 +7,9 @@ Here you will find articles and blog posts that the team at [Superbloom](https:/
 
 These articles catalogue the journey that the USER Project has taken since it's beginning in September 2022.
 
-\---
+___
 
-## **Introducing USER: Usable Software Ecosystem Research**
+## Introducing USER: Usable Software Ecosystem Research
 
 **14 Feb 2023**
 
@@ -17,9 +17,9 @@ These articles catalogue the journey that the USER Project has taken since it's 
 
 [Read on the USER Project Github repository](https://github.com/simplysecure/USER_project/blob/main/blogs/Blog1-Introducing-USER-Usable-Software-Ecosystems-Research.md)
 
-\---
+___
 
-## **USER: A Work In Process**
+## USER: A Work In Process
 
 **15 May 2023**
 

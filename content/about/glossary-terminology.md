@@ -39,7 +39,7 @@ We use Open Source in the first sense (as a shorter variant of Free/Libre/Open S
 
 **Open Data:** Sharing data created by research projects to allow others to replicate a research or to use for other research questions.
 
-**Open Source Program Offices or OSPOs: **Typically run by a company or an educational institution where there are staff dedicated to understanding how the program offering around open source in that particular institution or company operates and how it interacts with open source as a community externally and potentially how it contributes.
+**Open Source Program Offices or OSPOs:** Typically run by a company or an educational institution where there are staff dedicated to understanding how the program offering around open source in that particular institution or company operates and how it interacts with open source as a community externally and potentially how it contributes.
 
 **OS:** Shortened form of Open Source. Used as a descriptive adverb or a noun.
 
@@ -53,7 +53,13 @@ We use Open Source in the first sense (as a shorter variant of Free/Libre/Open S
 
 **Source code:** The text-based, human-readable representation of a computer program. From the source code, a running program can be created. →Open Source →Projects collaborate in writing the source code. 
 
-**SROSS** (Scientific Research Open Source Software) / **OSS** (Open Source Software) / **OS** (Open Source) / **S&R** (Science and Research) 
+**SROSS:** Scientific Research Open Source Software
+
+**OSS:** Open Source Software
+
+**OS:** Open Source
+
+**S&R:** Science and Research
 
 **User:** “The user” is usually referring to an imagined archetype summarizing all relevant people using the software. Thus, different people imagine “the user” in different ways. Particularly in the context of open source and hacker culture it can also refer to a person considered unskilled and being “the other” to the hacker. The problem that the term can be nondescript and too encompassing is sometimes dealt with designers by using several more specific archetypes (“personas” or “user profiles”)
 
