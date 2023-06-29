@@ -11,7 +11,6 @@ weight: 8
 We use Open Source in the first sense (as a shorter variant of Free/Libre/Open Source Software), but in conversations, particularly among FLOSS enthusiasts, it can be important to be aware of the other meaning.
 
 
-
 **Citation:** Usually the reference to the source of an assertion. Being cited by other researchers is the major source of merit for a researcher. There are people arguing that software used in research projects should also be cited. 
 
 **Churn:** Churn or “turnover” means that contributors leave the project. This poses a problem, since people need to learn about the project and its code before contributing work: They can’t be replaced quickly.
@@ -28,9 +27,9 @@ We use Open Source in the first sense (as a shorter variant of Free/Libre/Open S
 
 **Github:** An online platform for code-focussed collaboration of developers. Despite it being owned by a commercial company which is not sharing the platform’s source code, many →open source →projects use it to collaborate on code. 
 
-**GUI: **Graphical User Interface, today a common way to interact with computers via buttons, scrolling, and menus. Often used in contrast to a command line interface, which has been common up until the mid-90s for PCs, but remains an often preferred interface for software developers.
+**GUI:** Graphical User Interface, today a common way to interact with computers via buttons, scrolling, and menus. Often used in contrast to a command line interface, which has been common up until the mid-90s for PCs, but remains an often preferred interface for software developers.
 
-**HTML & CSS: **Standards for writing code that defines content and look of websites. 
+**HTML & CSS:** Standards for writing code that defines content and look of websites. 
 
 **Information architecture:** Purposefully creating a way to organize information on websites or other large information repositories. A bad information architecture (or a total lack thereof) leads to people not finding the information they need. 
 
@@ -44,17 +43,17 @@ We use Open Source in the first sense (as a shorter variant of Free/Libre/Open S
 
 **OS:** Shortened form of Open Source. Used as a descriptive adverb or a noun.
 
-Product: In this context, a software. The term is more common for commercial software that sells or rents the software. 
+**Product:** In this context, a software. The term is more common for commercial software that sells or rents the software. 
 
 **Project:** Here used as (Open Source) Project, which refers to both the software created and its community: people are “part of” a project as active participants in its creation. Interestingly, these “projects” have no defined end, as it would be with “projects” in many other contexts.
 
 **Reproducibility:** A research result that can be “reproduced”, that is, replicated or repeated by another team of researchers. Within our research, this usually means that code and data are shared by the original researchers so that others can see if they come to the same conclusions. Reproducibility is a core principle in Karl Popper’s philosophy of science (Critical Rationalism). 
 
-**Resources: **The distinct elements that are at the disposal or for the use of the project or team as a whole primarily, people’s applied skills, inclusive of their time to do those skills and money. The term is probably not used much by developers and more by (project) managers, product managers, coordinators, budget managers or community organizers. 
+**Resources:** The distinct elements that are at the disposal or for the use of the project or team as a whole primarily, people’s applied skills, inclusive of their time to do those skills and money. The term is probably not used much by developers and more by (project) managers, product managers, coordinators, budget managers or community organizers. 
 
-**Source code: **The text-based, human-readable representation of a computer program. From the source code, a running program can be created. →Open Source →Projects collaborate in writing the source code. 
+**Source code:** The text-based, human-readable representation of a computer program. From the source code, a running program can be created. →Open Source →Projects collaborate in writing the source code. 
 
-**SROSS **(Scientific Research Open Source Software)/ **OSS** (Open Source Software)/ **OS** (Open Source) ** / S&R** (Science and Research): 
+**SROSS** (Scientific Research Open Source Software) / **OSS** (Open Source Software) / **OS** (Open Source) / **S&R** (Science and Research) 
 
 **User:** “The user” is usually referring to an imagined archetype summarizing all relevant people using the software. Thus, different people imagine “the user” in different ways. Particularly in the context of open source and hacker culture it can also refer to a person considered unskilled and being “the other” to the hacker. The problem that the term can be nondescript and too encompassing is sometimes dealt with designers by using several more specific archetypes (“personas” or “user profiles”)
 
