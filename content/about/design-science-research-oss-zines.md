@@ -7,7 +7,7 @@ In an effort to package keys findings from our research into more digestible and
 
 Feel free to download, print, fold, and distribute at your next conference or event!
 
-**Zine 1: An Overview of the USER Project **
+**Zine 1: An Overview of the USER Project**
 
 [Print-friendly version](https://github.com/simplysecure/USER_project/blob/main/images/Zine%20Art/Sloan%20Zines%20-%201.%20Print%20friendly%20-%209th%20May.jpg)
 
