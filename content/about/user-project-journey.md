@@ -26,3 +26,13 @@ ___
 [Read on the Superbloom website](https://simplysecure.org/blog/user-a-work-in-process/)
 
 [Read on the USER Project Github repository](https://github.com/simplysecure/USER_project/blob/main/blogs/Blog2-USER-A-Work-in-Progress.md)
+
+___
+
+## The Sorry State of Usable Software in Open Science: Results from Open Science Retreat
+
+**22 June 2023**
+
+by SSI Fellow [Meag Doherty](https://software.ac.uk/about/fellows/meag-doherty), Anja Eggert, Yomna Eid, Kjong-Van Lehmann, Christian Meesters, and Lennart Schüler
+
+[Read on the SSI website](https://www.software.ac.uk/blog/2023-06-22-sorry-state-usable-software-open-science-results-open-science-retreat)
