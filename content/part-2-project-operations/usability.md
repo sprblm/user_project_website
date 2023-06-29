@@ -16,7 +16,7 @@ From our exploration and conversations we largely found that Usability was descr
 
 Important to note in this introduction to the topic of Usability in Science and Research OSS, is that the wider infrastructure that supports OSS and Science and Research does not invest in usability in the ways in which we may come to talk about in this section. Github, Gitlab, secure University data storage systems and various other softwares and applications are usability challenged in their own ways. Some of these organizations invest in usability and design more broadly, but many people, in this research study and beyond, describe the difficulties in learning and understanding the ecosystems that the Science and Research OSS tools exist in.
 
-_“Tech tools themselves have not thought about how to make things usable and friendly. Makes it hard for, eg, undergrads who start thinking about problems and get intimidated by Git. Github is scary - buttons, menus and options…too many, I'm an outsider and it isn’t for me.” _
+_“Tech tools themselves have not thought about how to make things usable and friendly. Makes it hard for, eg, undergrads who start thinking about problems and get intimidated by Git. Github is scary - buttons, menus and options…too many, I'm an outsider and it isn’t for me.”_
 
 Here, a Data research Scientist at a lab that incubates numerous open science and research tools speaks to the complexity of the software and tool ecosystem.
 
@@ -42,13 +42,13 @@ A legacy that seems like it’s been passed on from OSS to Scientific and Resear
 
 These users do exist, as described below by a lead developer working on a Python package for audio data, there are a good number of people that can get most of the way when using SROSS in the same or similar ways that the core developers would.
 
-_“GUI - long story short, there's a bunch of people that can pick up Python and make a thing that gets 50 to 75% of the way there, but it still doesn't really give you that sort of, you know, like usability or accessibility, that would, that would really be like, I think a game changer for the community.” _
+_“GUI - long story short, there's a bunch of people that can pick up Python and make a thing that gets 50 to 75% of the way there, but it still doesn't really give you that sort of, you know, like usability or accessibility, that would, that would really be like, I think a game changer for the community.”_
 
 This lead developer, while recognizing that these people exist and there is this pervasive sense through OSS to ‘self serve’ until you can use OSS proficiently, that a GUI (graphical interface) would be a benefit to their project in allowing those that cannot, for whatever reason, self-serve the knowledge needed to operate the OSS like that of the core developers.
 
 A community manager for the various OSS projects that a funder supports and maintains describes below the reliance on norms and knowledge in a community and how this really only suffices until a point where someone gets stuck.
 
-_“In a lot of cases, people are reliant on their knowledge of set of norms in a given community, with a community either being something like whatever scientific Python or the Bioconductor community in R or something, and having a standard set of norms that are kind of like missing stairs, where if you don't understand this one weird thing about how the software is interpreting your data or how you need to interact with the software, then you're going to be completely lost, and deciphering what that missing stair is really, really challenging.” _
+_“In a lot of cases, people are reliant on their knowledge of set of norms in a given community, with a community either being something like whatever scientific Python or the Bioconductor community in R or something, and having a standard set of norms that are kind of like missing stairs, where if you don't understand this one weird thing about how the software is interpreting your data or how you need to interact with the software, then you're going to be completely lost, and deciphering what that missing stair is really, really challenging.”_
 
 In our casual conversations in OSS we found that getting lost is fairly common despite your knowledge of norms and processes and skills. OSS and by extension Science and Research OSS is most often built by a single person or small collection of people that cycle through intensity of activity on an OSS project. These are the people that are likely to have the most comprehensive knowledge of operating that OSS and even if they document incredibly well, there will be quirks in that OSS that others will not understand until they ask. This is where Usability can make a difference. In the period of time where the configurer of the OSS are making judgements and assumptions about general use using their own experiences as a benchmark which are often highly knowledgeable benchmarks.
 
@@ -88,7 +88,7 @@ Developers and maintainers of early stages, low user numbers Science and Researc
 
 Here a participant that was a computational scientist that now maintains OSS for data science projects running multiple components in Python describes the volume of questions the project receives and the desire to make this easier for those people asking questions:
 
-_“Leads to lots of questions from users that if we, if we could figure out how to do it, then we wouldn't spend as much time kind of answering basic questions over and over again. Right, software would be easier to use for people and that would kind of free up more of our time to actually work on developing and further as opposed to helping users do things that in theory should be simple.” _
+_“Leads to lots of questions from users that if we, if we could figure out how to do it, then we wouldn't spend as much time kind of answering basic questions over and over again. Right, software would be easier to use for people and that would kind of free up more of our time to actually work on developing and further as opposed to helping users do things that in theory should be simple.”_
 
 They describe a reality where if the software made sense to users then that would free up time for other work and priorities for the OSS.
 
@@ -102,6 +102,6 @@ We can clearly see from our research that there are ways that Usability is being
 
 The appetite for better usability is best described by a community manager supporting multiple SROSS projects.
 
-_“What I learned from all of that, though, is that there is a huge desire for people to improve the usability of their software, and then acknowledge that there's not a lot of forethought into what the trajectory of the software project will mean in the context of user accessibility later on. Usually, the thought process is how can we incorporate this feature as quickly as possible. But that being said, people do want to make the user experience better. And there's a huge desire to do that. But figuring out how to make that happen is a much bigger and harder question.” _
+_“What I learned from all of that, though, is that there is a huge desire for people to improve the usability of their software, and then acknowledge that there's not a lot of forethought into what the trajectory of the software project will mean in the context of user accessibility later on. Usually, the thought process is how can we incorporate this feature as quickly as possible. But that being said, people do want to make the user experience better. And there's a huge desire to do that. But figuring out how to make that happen is a much bigger and harder question.”_
 
 If we can better communicate the need for usability earlier in the lifecycle of Science and Research OSS and assess their future needs better, support with educational resources that are directly applicable to the kinds of Science and Research OSS that exists and provide that usability support at the moments when the SROSS are ready (and just becoming ready) for support then we can mitigate these points where SROSS projects get stuck and spend resources writing additional documentation and responding to support requests without incorporating those support request changes into the OSS tool.
