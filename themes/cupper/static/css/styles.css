@@ -621,7 +621,7 @@ caption {
 }
 
 .intro-and-nav>div {
-    padding: 2.25rem;
+    padding: 1.5rem 1.25rem;
     display: flex;
     flex-direction: column;
     height: 100%;
@@ -629,6 +629,7 @@ caption {
 
 .intro {
     flex: 0 0 auto;
+    line-height: 1.3;
 }
 
 .patterns {
@@ -640,6 +641,7 @@ caption {
     display: flex;
     column-gap: 24px;
     align-items: center;
+    justify-content: center;
 
     .logo-text {
         display: flex;
@@ -659,7 +661,7 @@ caption {
 
 .logo img {
     width: 100%;
-    /* max-width: 5rem; */
+    max-width: 250px;
 }
 
 .library-desc {
@@ -671,7 +673,7 @@ caption {
 }
 
 .main-and-footer {
-    margin-left: 15rem;
+    margin-left: 18rem;
 }
 
 .main-and-footer>div {
@@ -690,7 +692,7 @@ caption {
 
 .patterns {
     overflow: auto;
-    margin-top: 1.5rem;
+    margin-top: 1.125rem;
 }
 
 .patterns * {
@@ -698,7 +700,8 @@ caption {
 }
 
 .patterns h3 {
-    font-size: 1rem;
+    font-size: 0.9rem;
+    line-height: 1.4;
 }
 
 .patterns h3+ul {
@@ -711,11 +714,7 @@ caption {
 }
 
 .patterns li+li {
-    margin-top: 0.75rem;
-}
-
-.patterns ul ul {
-    margin-left: 0.75rem;
+    margin-top: 0.8rem;
 }
 
 .pattern a {
@@ -724,7 +723,7 @@ caption {
     flex-wrap: nowrap;
     align-items: center;
     font-weight: bold;
-    padding: 0 1rem;
+    padding: 0 0.625rem;
 }
 
 
@@ -1308,7 +1307,7 @@ h1 svg {
     }
 
     .intro-and-nav>div {
-        padding: 1.5rem;
+        padding: 1rem;
     }
 
     .main-and-footer {
@@ -1331,10 +1330,6 @@ h1 svg {
 
     .patterns li:not(.pattern) {
         margin-top: 0;
-    }
-
-    .patterns ul ul {
-        margin: 0;
     }
 
     .patterns li {
@@ -1477,7 +1472,7 @@ h1 svg {
 
 .pattern a span.text {
     font-family: JetBrains Mono, monospace;
-    line-height: 1.2rem;
+    line-height: 1.2;
 }
 
 .sidebar-headings {
