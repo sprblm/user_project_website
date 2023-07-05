@@ -35,9 +35,9 @@ collections:
       - { name: "tag", label: "Tag(s)", widget: "text", required: false  }
       - { name: "featuredImage", label: "Featured Image", widget: "image", required: false }
       - { name: "body", label: "Body", widget: "markdown" }
-  - name: "findings"
-    label: "Findings"
-    folder: "content/findings"
+  - name: "process"
+    label: "Process"
+    folder: "content/process"
     create: true
     slug: "{{slug}}"
     fields:
