@@ -1,7 +1,6 @@
 ---
 title: 'USER: Executive Summary'
 slug: summary
-weight: 1
 author: 'Eriol Fox, Susan Kennedy'
 featuredImage: /images/line-art-user-blackboard.png
 ---
@@ -100,7 +99,7 @@ Inclusivity increases contributions, because designers and other non-code contri
 <br>
 
 ### Develop resources, community spaces, shared channels, and information repositories for SROSS design. 
-If OSS/SROSS designers share experiences and learn from each other, they can help shape best practices and reduce barriers for designers new to the ecosystem. Also, including designers in OSS/SROSS maintainer channels, and vice-versa, will help increase designer/developer collaboration and provide guidance to projects without a designer on the team.
+If OSS/SROSS designers share experiences and learn from each other, they can help shape best practices and reduce barriers for designers new to the ecosystem. Also, including designers in OSS/SROSS maintainer channels, and vice-versa, will help increase designer/developer collaboration and provide guidance to projects without a designer on the team.  Institutions can support this by promoting reuse of science and research and usability.
 
 **Find out more in sections:** [Design Challenges and Barriers](https://user-project.superbloom.design/part-3-design/challenges/), [Governance](https://user-project.superbloom.design/part-1-the-state-of-sross/governance/)
 
@@ -130,6 +129,12 @@ Open source culture celebrates code contributions regularly (merged code, closed
 
 <br>
 
+### Create and grow knowledge and training for designers interested in SROSS and Scientists and Researchers growing their Design knowledge.
+
+The gaps in knowledge between design, OSS and science and research are variable and often large. Creating and maintaining a shared learning space for all functions and roles building SROSS will ensure skills are shared among roles.
+
+**Find out more in sections:** [Usability](https://user-project.superbloom.design/part-2-project-operations/usability/), [Cross-disciplinary collaboration in SROSS](https://user-project.superbloom.design/part-1-the-state-of-sross/collaboration/), [Design Practices and Workflows](https://user-project.superbloom.design/part-3-design/practices/).
+
 ## Collaboration
 
 
@@ -149,7 +154,7 @@ Any given SROSS project can include maintainers from varying disciplines, perspe
 <br>
 
 ### Incorporate design and usability language and processes in product planning. 
-Outlining design and usability activities as a critical part of the plan from the outset would reduce friction later in the process. This can also help shift perceptions and support project leads and contributors prioritize UX/UI.
+Outlining design and usability activities as a critical part of the plan from the outset would reduce friction later in the process. This can also help shift perceptions and support project leads and contributors prioritize UX/UI. Remember that developing user-friendly features can cut time spent on documentation.
 
 **Find out more in sections:** [Cross-disciplinary collaboration in SROSS](https://user-project.superbloom.design/part-1-the-state-of-sross/collaboration/), [Prioritization](https://user-project.superbloom.design/part-2-project-operations/prioritization/), [Governance](https://user-project.superbloom.design/part-1-the-state-of-sross/governance/)
 
