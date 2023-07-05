@@ -2,7 +2,6 @@
 title: 'Values and Attitudes '
 slug: values-attitudes
 author: Katie Wilson
-weight: 2
 ---
 # Values and Attitudes of Open Science and Open Source 
 
@@ -75,3 +74,11 @@ While Open Source as a practice can interrupt some of the difficulties researche
 _“The element of thoughtfulness and design that goes into actually developing research is kind of lacking outside of: ‘Hey, this is an interesting problem, how do we solve it?’ There's a whole aspect of that which is: How is it applied? How do people engage with it? How do you publish it? How do you make it open? All those things aren't really thought about.”_
 
 This need for intentionality stems from researchers doing their work in very distinct and often stressful contexts with competing incentives and specific requirements. On the most basic level, researchers are often most concerned with sustaining their work in the short term, including securing grants, publishing to achieve tenure, job stability, etc – “why should they care about openness when they need to survive?” one respondent said. Another brought up a resonant fear: “people don't want to harm their CV or next grant application by sharing” too much of their work. Openness isn't currently measurable in the "incentives economy" of academia. It is, to some, overshadowed by publishing, tenure, grants and “newness.”
+
+While cultural overhaul of academic incentives is certainly one way to address one of the challenges participants identified, there is also an opportunity for developing cultures of openness in a way that can give researchers the currency they require within their institutions. Where a participant identified a “growing nervousness in OSS generally about metrics and measuring” perhaps OSPOs and others at the forefront of Open strategy can seek to develop methods of measuring openness.
+
+
+**Our recommendation/s:**
+
+- **Choose to store your design, usability and research data with institutions that are more likely to reuse it:** Work toward openness by choosing to store your research data with institutions that are more likely to reuse it, or even partnering and collaborating with people who are more likely to reuse it.
+- **Measuring openness:** OSPOs and others working on open strategies should develop methods of measuring openness.
