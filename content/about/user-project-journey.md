@@ -1,11 +1,18 @@
 ---
 title: USER Project Journey
 slug: project-journey
-weight: 2
 ---
-Here you will find articles and blog posts that the team at [Superbloom](https://superbloom.design/) and our collaborators have written about the [USER Project](https://github.com/simplysecure/USER_project).
+Here you will find articles, blog posts and podcast episodes that the team at [Superbloom](https://superbloom.design/) and our collaborators have written about the [USER Project](https://github.com/simplysecure/USER_project).
 
 These articles catalogue the journey that the USER Project has taken since it's beginning in September 2022.
+
+___
+
+## The USER Project on Sustain OSS Design podcast #1
+**4 Jul 2023**
+
+[Listen on the Sustain OSS Design podcast homepage](https://sosdesign.sustainoss.org/45) or on various podcast listening platforms.
+
 
 ___
 
