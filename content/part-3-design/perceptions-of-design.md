@@ -2,6 +2,7 @@
 title: Perceptions of design
 slug: perceptions
 author: Abhishek Sharma
+weight: 1
 ---
 ## Introduction
 

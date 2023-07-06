@@ -3,6 +3,7 @@ title: 'USER: Executive Summary'
 slug: summary
 author: 'Eriol Fox, Susan Kennedy'
 featuredImage: /images/line-art-user-blackboard.png
+weight: 1
 ---
 The Usable Software Ecosystem Research project (USER) is a research initiative that explores how open source scientific and research software (SROSS) teams understand, consider, and undertake usability and design opportunities in their projects. Supported by the Alfred P. Sloan Foundation, our research followed an iterative Human-Centered Design approach using multiple methods of inquiry, including desk research, surveys, interviews, and observation at community events and gatherings between November 2022 and June 2023.
 

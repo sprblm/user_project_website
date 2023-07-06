@@ -2,6 +2,7 @@
 title: Design challenges and barriers
 slug: challenges
 author: Eriol Fox
+weight: 5
 ---
 When we asked people who work on Science and Research OSS tools to detail the challenges and barriers they have both generally and specifically toward understanding users, usability and design. Many of the general challenges and barriers have an effect on design and usability in the OSS and how users can be better understood. These challenges could be read as requiring a level of proficiency in how complex tech tools are built, how OSS is built and maintained as well as knowledge of the academic systems and science and research practice in these academic systems. This understanding, as well as time and the value of certain types of work (code as more valuable than any other contributions to OSS) can help us understand these challenges.
 

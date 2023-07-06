@@ -2,6 +2,7 @@
 title: 'Values and Attitudes '
 slug: values-attitudes
 author: Katie Wilson
+weight: 2
 ---
 # Values and Attitudes of Open Science and Open Source 
 

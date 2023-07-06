@@ -2,6 +2,7 @@
 title: Design in the academic context
 slug: in-academia
 author: Katie Wilson
+weight: 3
 ---
 Many of the projects we spoke to either are housed within academic institutions, funded by academic institutions, or their maintainers were trained in academic institutions. Academic norms, pressures, challenges, and benefits are deeply embedded in SROSS projects. As discussed in the Open Source and Open Science chapter, academia as a container for science, knowledge production, and the scientific method can be supported and furthered by Open Source practices. It can also present challenges to openness. This chapter explores further how academia’s structures and culture impacts maintenance and design work within the projects we studied. 
 
