@@ -2,11 +2,10 @@
 title: Research Process
 slug: process
 author: Katie Wilson
-weight: 1
 ---
 ## Origin Story
 
-We at Superbloom have dedicated ourselves to understanding and sharing how designers work and how design is practiced within open source teams and communities for years (see [Open Source Design](https://opensourcedesign.net/) and our podcasts on [Sustaining Open Source Design](https://sosdesign.sustainoss.org/)). With support from the [Sloan Foundation](https://sloan.org/), we had the opportunity to dig into these questions within academic and scientific communities in particular. We named this project “USER” — Usable Software Ecosystem Research – and defined it as a research initiative that explores how open source scientific and research software (S&R OSS) teams understand, consider, and undertake usability and design opportunities in their projects.
+We at Superbloom have dedicated ourselves to understanding and sharing how designers work and how design is practiced within open source teams and communities for years (see [Open Source Design](https://opensourcedesign.net/) and our podcasts on [Sustaining Open Source Design](https://sosdesign.sustainoss.org/)). With support from the [Sloan Foundation](https://sloan.org/), we had the opportunity to dig into these questions within academic and scientific communities in particular. We named this project “USER” — Usable Software Ecosystem Research – and defined it as a research initiative that explores how open source scientific and research software (SROSS) teams understand, consider, and undertake usability and design opportunities in their projects.
 
 ## Methods
 
