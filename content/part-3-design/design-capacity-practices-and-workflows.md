@@ -2,6 +2,7 @@
 title: Design practices and workflows
 slug: practices
 author: Katie Wilson
+weight: 2
 ---
 # How do SROSS without specific design capacity practice “design”? 
 

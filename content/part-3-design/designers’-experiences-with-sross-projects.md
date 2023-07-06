@@ -2,6 +2,7 @@
 title: Designers’ experiences with SROSS projects
 slug: in-SROSS
 author: Jan Dittrich
+weight: 4
 ---
 Designers already work on open source research software, although this is not a common role. When talking to these designers, we learned about their methods to make design work in the structure of the projects, and how they manage their professional identities in a context in which design is not expected or seen as essential. 
 
