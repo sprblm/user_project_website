@@ -1,0 +1,69 @@
+/* ///////////////////////////////////////////////////////////////////////
+
+// Site custom styles
+
+/////////////////////////////////////////////////////////////////////// */
+
+@import "./styles.css";
+
+
+.header-image {
+  position: relative;
+  padding: 10px;
+}
+
+.header-image img {
+  position: relative;
+  height: auto;
+  top: 10;
+  left: 0;
+  width: 100%;
+  z-index: -1;
+}
+
+.pattern a span.text {
+  font-family: JetBrains Mono, monospace;
+  line-height: 1.2;
+}
+
+.sidebar-headings {
+  background: #111;
+  color: #fefefe;
+  font-family: JetBrains Mono, monospace;
+  font-style: normal;
+  line-height: 1.36rem;
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar-headings a {
+  border-bottom: none;
+}
+
+.wrapper-main {
+  background-color: transparent;
+  position: relative;
+  margin-top: 0 !important;
+  padding-bottom: 0;
+  padding-top: 0 !important;
+}
+
+.bg {
+  background-color: transparent;
+  position: relative;
+}
+
+.bg-image {
+  position: fixed;
+  top: 380px;
+  left: -200px;
+  max-height: 65vh;
+  width: 100%;
+  height: auto;
+  opacity: .25;
+  z-index: -1;
+}
+
+#main {
+  z-index: 100;
+}
