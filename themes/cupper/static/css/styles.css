@@ -366,7 +366,7 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: 'IBM Plex Sans', serif;
+    font-family: 'JetBrains Mono', sans-serif;
     line-height: 1.125;
 }
 
@@ -679,7 +679,7 @@ caption {
 .main-and-footer>div {
     max-width: 40rem;
     margin: 0 auto;
-    padding: 2.25rem;
+    padding: 2.25rem 2.25rem 0 2.25rem;
 }
 
 [role="contentinfo"] {
@@ -1452,63 +1452,4 @@ h1 svg {
         border-left: 0.5rem solid;
         background: none;
     }
-}
-
-/* Customize */
-
-.header-image {
- position: relative; 
- padding: 10px;
-}
-
-.header-image img {
-    position: relative;
-    height: auto;
-    top: 10;
-    left: 0;
-    width: 100%;
-    z-index: -1;
-}
-
-.pattern a span.text {
-    font-family: JetBrains Mono, monospace;
-    line-height: 1.2;
-}
-
-.sidebar-headings {
-    background: #111;
-    color: #fefefe;
-    font-family: JetBrains Mono, monospace;
-    font-style: normal;
-    line-height: 1.36rem;
-    margin: 0;
-    padding: 0;
-}
-
-.sidebar-headings a {
-    border-bottom: none;
-}
-
-.wrapper-main {
-    background-color: transparent;
-    position: relative;
-}
-
-.bg {
-    background-color: transparent;
-    position: relative;
-}
-
-.bg-image {
-    position: absolute;
-    top: 0;
-    left: -800px;
-    width: 100%;
-    height: auto;
-    opacity: .25;
-    z-index: -1;
-}
-
-#main {
-    z-index: 100;
 }

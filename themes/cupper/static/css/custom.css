@@ -1,0 +1,108 @@
+/* ///////////////////////////////////////////////////////////////////////
+
+// Site custom styles
+
+/////////////////////////////////////////////////////////////////////// */
+
+@import "./styles.css";
+
+h1, h2, h3, h4, h5, h6 {
+  background-color: #111;
+  color: #fefefe;
+}
+
+.header-image {
+  position: relative;
+  padding: 10px;
+}
+
+.header-image img {
+  position: relative;
+  height: auto;
+  top: 10;
+  left: 0;
+  width: 100%;
+  z-index: -1;
+}
+
+.pattern {
+  display: flex;
+  gap: 0;
+  margin: 32px;
+}
+
+.pattern a .text {
+  font-family: JetBrains Mono, monospace;
+  line-height: 1.2;
+  margin: 0 0 0 -8px;
+  padding: 0;
+}
+
+.sidebar-headings {
+  background: #111;
+  color: #fefefe;
+  font-family: JetBrains Mono, monospace;
+  font-style: normal;
+  line-height: 1.36rem;
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar-headings a {
+  border-bottom: none;
+}
+
+.wrapper-main {
+  background-color: transparent;
+  position: relative;
+  margin-top: 0 !important;
+  padding-bottom: 0;
+  padding-top: 0 !important;
+}
+
+.wrapper-main>#main ul li:before {
+  content: ">>";
+  font-family: JetBrains Mono, monospace;
+  font-weight: bold;
+  position: relative;
+  top: 36px;
+  left: -40px;
+}
+
+
+ul#patterns-list li.pattern:before {
+  content: ">>";
+  font-family: JetBrains Mono, monospace;
+  font-weight: bold;
+  letter-spacing: 1.61px;
+  position: relative;
+  top: 0;
+  left: 0;
+
+}
+
+.wrapper-main>#main ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.bg {
+  background-color: transparent;
+  position: relative;
+}
+
+.bg-image {
+  position: fixed;
+  top: 380px;
+  left: -20vw;
+  max-height: 65vh;
+  width: 100%;
+  height: auto;
+  opacity: .25;
+  z-index: -1;
+}
+
+#main {
+  z-index: 1;
+}
