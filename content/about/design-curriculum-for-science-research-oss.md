@@ -74,14 +74,15 @@ Understanding design better and respecting the processes without needing to be â
     - Recommended size of group: 3-8
     - Template: [Planning and Designing an open roadmap](https://miro.com/app/board/uXjVM2k3my8=/?moveToWidget=3458764559313472268&cot=14)
 
-**Bringing in design and usability into every feature issues and acceptance criteria.** This can be done by making design a part of the pipeline process where tasks/issues move from labelled stage to stage with a built-in design review or design QA phase. Design review can be done at the estimation phase and design QA is done at the pre-release phase. This is difficult to implement if you do not already have phases of work and are not yet open about how work gets decided on. This is also feasible when you have some reliable design resource or are able to run through design review and QA without identifying as a designer.
 
-- Time needed for exercise: 3 days per round of design reviews
-- Recommended size of group: 2-4
-- Template: [Design and usability into every feature](https://miro.com/app/board/uXjVM2k3my8=/?moveToWidget=3458764559313472664&cot=14)
+- **Bringing in design and usability into every feature issues and acceptance criteria.** This can be done by making design a part of the pipeline process where tasks/issues move from labelled stage to stage with a built-in design review or design QA phase. Design review can be done at the estimation phase and design QA is done at the pre-release phase. This is difficult to implement if you do not already have phases of work and are not yet open about how work gets decided on. This is also feasible when you have some reliable design resource or are able to run through design review and QA without identifying as a designer.
 
-**Building an OSS design team** is arguably one of the most complex and labour intensive exercises on the journey to great design and usability in OSS. It requires reaching out to designers in OSS communities such as [Open Source Design.net](https://opensourcedesign.net/) and ensuring you are asking for support in design and usability that will be implemented in the tool. Designer OSS volunteer turnover can be high due to many complex factors. Onboarding and ensuring that the designers are valued is critical to their success. 
+  - Time needed for exercise: 3 days per round of design reviews
+  - Recommended size of group: 2-4
+  - Template: [Design and usability into every feature](https://miro.com/app/board/uXjVM2k3my8=/?moveToWidget=3458764559313472664&cot=14)
 
-- Time needed for exercise: Minimum of 3 months of onboarding and continued communication.
-- Recommended size of group: 1-3
-- Template: [Building an OSS design team](https://miro.com/app/board/uXjVM2k3my8=/?moveToWidget=3458764559313472784&cot=14)
+- **Building an OSS design team** is arguably one of the most complex and labour intensive exercises on the journey to great design and usability in OSS. It requires reaching out to designers in OSS communities such as [Open Source Design.net](https://opensourcedesign.net/) and ensuring you are asking for support in design and usability that will be implemented in the tool. Designer OSS volunteer turnover can be high due to many complex factors. Onboarding and ensuring that the designers are valued is critical to their success. 
+
+  - Time needed for exercise: Minimum of 3 months of onboarding and continued communication.
+  - Recommended size of group: 1-3
+  - Template: [Building an OSS design team](https://miro.com/app/board/uXjVM2k3my8=/?moveToWidget=3458764559313472784&cot=14)
