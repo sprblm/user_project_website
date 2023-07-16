@@ -1,6 +1,6 @@
 ---
 title: Design & Usability
-featuredImage: /images/untitled_artwork 2 copy.png
+featuredImage: images/line-art-science-researcher.svg
 ---
 From December 2022 to February 2023, we spoke to research participants who are maintainers, developers, designers, scientists, researchers, funders, Open Source Program Offices and stakeholders – all involved with creating and maintaining Scientific & Research OSS.
 
