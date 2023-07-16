@@ -110,7 +110,7 @@
       <div class="main-and-footer">
         <div class="header-image"><img src="{{"images/header-image.svg" | absURL }}" alt=""></div>
         <div class="wrapper-main">
-                      <img class="bg-image" src="{{"images/line-art-science-researcher.svg" | absURL }}"alt="Background image of researcher with flask.">
+                      <img class="bg-image" src="{{.Params.featuredImage | absURL}}"alt="Background image of researcher with flask.">
           {{ block "main" . }}
           {{ end }}
 
