@@ -27,7 +27,9 @@ New developers from computer science backgrounds get attracted to contributing t
 This has been conveyed by most of the participants in one way or the other. One participant’s wholesome summary is worth mentioning, in which they indicated that they contribute:
 
 * to impact people’s lives with the software
-* for the opportunity to challenge their skills, their knowledge,
+  
+* for the opportunity to challenge their skills, their knowledge
+
 * make technology accessible to people who may not have the means to pay for a license or have the freedom to change and enhance when it's necessary
 
 There have been other individual reasons that drive people to contribute such as their emotional connection with the project; in the case of students, to build on their academic study, improve grades, and/or fulfill work study, to be associated with a widely used software, job opportunities and career advancement, overall generosity, etc.

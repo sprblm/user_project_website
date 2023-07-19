@@ -17,36 +17,61 @@ To see the true range of projects we spoke with, in discipline, size, and scope,
 
 
 **Disciplines represented:**
-
 * Vocal behavior
 * Geophysics 
+
 * Oceanography
+
 * Data science 
+
 * Biology
+
 * Genetics
+
 * Citizen science
+
 * Ethnography
+
 * Library science 
+
 * Astronomy
+
 * Meteorology
+
 * Earth systems 
+
 * Climate science
+
 * Engineering
+
 * Chemistry
+
 * Metagenomics
+
 * Geography
 
 **Types of software represented:**
 
-* Python data tools 
+* Python data tools
+
 * Jupyter Notebooks 
+
 * Visualization 
+
 * Python libraries
+
 * Data analysis 
+
 * Data cleaning
+
 * Data collection for citizen science
+
 * Digital platforms 
+
 * Data archive
+
 * PHP
+
 * Digital imaging
+
 * Creating access to HPC resources
