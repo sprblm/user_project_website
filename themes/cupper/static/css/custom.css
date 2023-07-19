@@ -6,7 +6,12 @@
 
 @import "./styles.css";
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   background-color: #111;
   color: #fefefe;
 }
@@ -25,17 +30,35 @@ h1, h2, h3, h4, h5, h6 {
   z-index: -1;
 }
 
+#main li+li {
+  margin: 0;
+}
+
 .pattern {
   display: flex;
   gap: 0;
   margin: 32px;
 }
 
-.pattern a .text {
+.pattern a {
+  display: flex;
+  gap: 8px;
+}
+
+.pattern a .text,
+.pattern a .bullet {
   font-family: JetBrains Mono, monospace;
   line-height: 1.2;
-  margin: 0 0 0 -8px;
-  padding: 0;
+}
+
+.pattern a .text {
+  margin: 0 0 0;
+  padding: 8px;
+}
+
+.pattern a .bullet {
+  padding: 8px;
+  margin: 0;
 }
 
 .sidebar-headings {
