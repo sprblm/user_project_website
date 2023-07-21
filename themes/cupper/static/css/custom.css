@@ -118,6 +118,14 @@ figure {
  width: 16rem;
 }
 
+.intro-and-nav>div {
+  padding: 1.5rem 1.6rem;
+}
+
+.library-desc {
+  margin: 40px auto;
+}
+
 .header-image {
   position: relative;
   padding: 10px;
