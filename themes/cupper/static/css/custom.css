@@ -30,7 +30,7 @@ h6 {
   }
 }
 
-button.cta-buttons {
+.cta-buttons {
   align-items: center;
   display: flex;
   flex-direction: row;
@@ -41,6 +41,7 @@ button.cta-buttons {
   padding: 24px;
   text-align: left;
   width: 381.5px;
+  cursor: pointer;
 }
 
 .cta-buttons img {
