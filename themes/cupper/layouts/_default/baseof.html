@@ -111,9 +111,8 @@
       <div class="main-and-footer">
         <div class="header-image"><img src="{{"images/header-image.svg" | absURL }}" alt=""></div>
         <div class="wrapper-main">
-          <div class="wrapper-bg-image">
-                      <img class="bg-image" src="{{.Params.featuredImage | absURL}}" alt="">
-          </div>
+            <figure class="wrapper-bg-image"><img class="bg-image" src="{{.Params.featuredImage | absURL}}" alt="">
+            </figure>
           {{ block "main" . }}
           {{ end }}
 
