@@ -16,6 +16,104 @@ h6 {
   color: #fefefe;
 }
 
+.cta {
+  display: grid;
+  gap: 15px 30px;
+  grid-template-columns: repeat(2, auto);
+  grid-template-rows: repeat(auto-fit, 1fr);
+
+  @media screen and (max-width: 1200px) {
+    display: flex;
+    flex-flow: column wrap;
+    column-gap: 30px;
+    align-items: center;
+  }
+}
+
+button.cta-buttons {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  gap: 0;
+  height: 161.3px;
+  justify-content: space-between;
+  overflow: hidden;
+  padding: 24px;
+  text-align: left;
+  width: 381.5px;
+}
+
+.cta-buttons img {
+  margin: 0;
+  width: 100%;
+  height: auto;
+  max-width: 180px;
+  max-height: --webkit-fill-available;
+}
+
+.cta-buttons span {
+  font-weight: bold;
+}
+
+.bg {
+  background-color: transparent;
+  position: relative;
+}
+
+.bg-image {
+  max-width: 100%;
+  max-height: 100%;
+  opacity: .25;
+  z-index: -1;
+}
+
+#button-2 img {
+  position: relative;
+  top: 24px;
+  left: -42px;
+}
+
+#button-5 img {
+  position: relative;
+  left: 24px;
+}
+
+#button-7 img {
+  position: relative;
+  left: 24px;
+}
+
+#button-4 img,
+#button-8 img {
+  position: relative;
+  top: 24px;
+}
+
+#button-1 span,
+#button-7 span {
+  position: relative;
+  min-width: 180px;
+}
+
+#button-4 span,
+#button-8 span {
+  position: relative;
+  min-width: 220px;
+}
+
+#button-2 span,
+#button-3 span,
+#button-5 span {
+  position: relative;
+  min-width: 200px
+}
+
+figure {
+  @media screen and (max-width: 1200px) {
+  visibility: hidden;
+  }
+}
+
 .header-image {
   position: relative;
   padding: 10px;
@@ -28,6 +126,10 @@ h6 {
   left: 0;
   width: 100%;
   z-index: -1;
+}
+
+#main {
+  z-index: 1;
 }
 
 #main li+li {
@@ -61,6 +163,12 @@ h6 {
   margin: 0;
 }
 
+#second-nav>ul {
+  list-style-type: none;
+}
+
+#second-nav>ul li button {}
+
 .sidebar-headings {
   background: #111;
   color: #fefefe;
@@ -74,6 +182,18 @@ h6 {
 .sidebar-headings a {
   border-bottom: none;
 }
+
+/* ul#patterns-list li.pattern:before {
+  content: ">>";
+  font-family: JetBrains Mono, monospace;
+  font-weight: bold;
+  letter-spacing: 1.61px;
+  position: relative;
+  padding: 8px 0;
+  top: 0;
+  left: 0;
+
+} */
 
 .wrapper-main {
   background-color: transparent;
@@ -95,19 +215,6 @@ h6 {
   left: -40px;
 }
 
-
-/* ul#patterns-list li.pattern:before {
-  content: ">>";
-  font-family: JetBrains Mono, monospace;
-  font-weight: bold;
-  letter-spacing: 1.61px;
-  position: relative;
-  padding: 8px 0;
-  top: 0;
-  left: 0;
-
-} */
-
 .wrapper-main>#main ul {
   list-style: none;
   margin: 0;
@@ -123,20 +230,4 @@ h6 {
   height: 100%;
   max-height: 66vh;
   z-index: -1;
-}
-
-.bg {
-  background-color: transparent;
-  position: relative;
-}
-
-.bg-image {
-  max-width: 100%;
-  max-height: 100%;
-  opacity: .25;
-  z-index: -1;
-}
-
-#main {
-  z-index: 1;
 }
