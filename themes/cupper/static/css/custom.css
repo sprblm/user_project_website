@@ -3,7 +3,7 @@
 // Site custom styles
 
 /////////////////////////////////////////////////////////////////////// */
-
+@import "./fonts.css";
 @import "./styles.css";
 
 h1,
@@ -114,6 +114,10 @@ figure {
   }
 }
 
+.intro-and-nav {
+ width: 16rem;
+}
+
 .header-image {
   position: relative;
   padding: 10px;
@@ -139,7 +143,7 @@ figure {
 .pattern {
   display: flex;
   gap: 0;
-  margin: 32px;
+  margin: 8px;
 }
 
 .pattern a {
@@ -149,13 +153,13 @@ figure {
 
 .pattern a .text,
 .pattern a .bullet {
-  font-family: JetBrains Mono, monospace;
+  font-family: IBM Plex Mono, monospace;
   line-height: 1.2;
 }
 
 .pattern a .text {
   margin: 0 0 0;
-  padding: 8px;
+  padding: 4px;
 }
 
 .pattern a .bullet {
@@ -172,7 +176,7 @@ figure {
 .sidebar-headings {
   background: #111;
   color: #fefefe;
-  font-family: JetBrains Mono, monospace;
+  font-family: IBM Plex Mono, monospace;
   font-style: normal;
   line-height: 1.36rem;
   margin: 0;
@@ -185,7 +189,7 @@ figure {
 
 /* ul#patterns-list li.pattern:before {
   content: ">>";
-  font-family: JetBrains Mono, monospace;
+  font-family: IBM Plex Mono, monospace;
   font-weight: bold;
   letter-spacing: 1.61px;
   position: relative;
@@ -208,7 +212,7 @@ figure {
 
 .wrapper-main>#main ul li:before {
   content: ">>";
-  font-family: JetBrains Mono, monospace;
+  font-family: IBM Plex Mono, monospace;
   font-weight: bold;
   position: relative;
   top: 36px;
