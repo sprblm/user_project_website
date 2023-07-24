@@ -1,251 +1,4 @@
-/* fonts */
-@font-face {
-    font-family: 'IBM Plex Sans';
-    src: url('fonts/IBMPlexSans-Bold.woff2') format('woff2'), url('fonts/IBMPlexSans-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
 
-@font-face {
-    font-family: 'IBM Plex Sans';
-    src: url('fonts/IBMPlexSans-Thin.woff2') format('woff2'), url('fonts/IBMPlexSans-Thin.woff') format('woff');
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'IBM Plex Sans';
-    src: url('fonts/IBMPlexSans-SemiBold.woff2') format('woff2'), url('fonts/IBMPlexSans-SemiBold.woff') format('woff');
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'IBM Plex Sans';
-    src: url('fonts/IBMPlexSans-ExtraLight.woff2') format('woff2'), url('fonts/IBMPlexSans-ExtraLight.woff') format('woff');
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'IBM Plex Sans';
-    src: url('fonts/IBMPlexSans-SemiBoldItalic.woff2') format('woff2'), url('fonts/IBMPlexSans-SemiBoldItalic.woff') format('woff');
-    font-weight: 600;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'IBM Plex Sans';
-    src: url('fonts/IBMPlexSans-Regular.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'IBM Plex Sans';
-    src: url('fonts/IBMPlexSans-BoldItalic.woff2') format('woff2');
-    font-weight: bold;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'IBM Plex Sans';
-    src: url('fonts/IBMPlexSans-ExtraLightItalic.woff2') format('woff2');
-    font-weight: 200;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'IBM Plex Sans';
-    src: url('fonts/IBMPlexSans-MediumItalic.woff2') format('woff2');
-    font-weight: 500;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'IBM Plex Sans';
-    src: url('fonts/IBMPlexSans-Light.woff2') format('woff2');
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'IBM Plex Sans';
-    src: url('fonts/IBMPlexSans-LightItalic.woff2') format('woff2');
-    font-weight: 300;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'IBM Plex Sans';
-    src: url('fonts/IBMPlexSans-Bold.woff2') format('woff2');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'IBM Plex Sans';
-    src: url('fonts/IBMPlexSans-Medium.woff2') format('woff2');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'IBM Plex Sans';
-    src: url('fonts/IBMPlexSans-ThinItalic.woff2') format('woff2');
-    font-weight: 100;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'IBM Plex Sans';
-    src: url('fonts/IBMPlexSans-Italic.woff2') format('woff2');
-    font-weight: normal;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'JetBrains Mono';
-    src: url('fonts/JetBrainsMono-LightItalic.woff2') format('woff2');
-    font-weight: 300;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'JetBrains Mono';
-    src: url('fonts/JetBrainsMono-ExtraLight.woff2') format('woff2');
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'JetBrains Mono';
-    src: url('fonts/JetBrainsMono-Italic.woff2') format('woff2');
-    font-weight: normal;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'JetBrains Mono';
-    src: url('fonts/JetBrainsMono-Bold.woff2') format('woff2');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'JetBrains Mono';
-    src: url('fonts/JetBrainsMono-ExtraBold.woff2') format('woff2');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'JetBrains Mono';
-    src: url('fonts/JetBrainsMono-ExtraBoldItalic.woff2') format('woff2');
-    font-weight: bold;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'JetBrains Mono';
-    src: url('fonts/JetBrainsMono-Light.woff2') format('woff2');
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'JetBrains Mono';
-    src: url('fonts/JetBrainsMono-Medium.woff2') format('woff2');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'JetBrains Mono';
-    src: url('fonts/JetBrainsMono-MediumItalic.woff2') format('woff2');
-    font-weight: 500;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'JetBrains Mono';
-    src: url('fonts/JetBrainsMono-BoldItalic.woff2') format('woff2');
-    font-weight: bold;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'JetBrains Mono';
-    src: url('fonts/JetBrainsMono-ExtraLightItalic.woff2') format('woff2');
-    font-weight: 200;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'JetBrains Mono';
-    src: url('fonts/JetBrainsMono-Regular.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'JetBrains Mono';
-    src: url('fonts/JetBrainsMono-SemiBoldItalic.woff2') format('woff2');
-    font-weight: 600;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'JetBrains Mono';
-    src: url('fonts/JetBrainsMono-Thin.woff2') format('woff2');
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'JetBrains Mono';
-    src: url('fonts/JetBrainsMono-SemiBold.woff2') format('woff2');
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'JetBrains Mono';
-    src: url('fonts/JetBrainsMono-ThinItalic.woff2') format('woff2');
-    font-weight: 100;
-    font-style: italic;
-    font-display: swap;
-}
 
 *,
 *::before,
@@ -366,7 +119,7 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: 'JetBrains Mono', sans-serif;
+    font-family: 'IBM Plex Mono', sans-serif;
     line-height: 1.125;
 }
 
@@ -648,7 +401,7 @@ caption {
         flex-direction: column;
         column-gap: 0px;
         font-size: 1rem;
-        font-family: JetBrains Mono, monospace;
+        font-family: IBM Plex Mono, monospace;
         font-weight: medium;
         margin: 0;
 
@@ -743,7 +496,7 @@ caption {
             100% 100%,
             0% 100%);
     color: #fefefe;
-    padding: 0.5em 1em 0.5em;
+    /* padding: 0.5em 1em 0.5em; */
 }
 
 /* menu button */

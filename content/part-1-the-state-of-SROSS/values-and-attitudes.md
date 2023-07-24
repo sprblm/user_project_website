@@ -82,4 +82,5 @@ While cultural overhaul of academic incentives is certainly one way to address o
 **Our recommendation/s:**
 
 - **Choose to store your design, usability and research data with institutions that are more likely to reuse it:** Work toward openness by choosing to store your research data with institutions that are more likely to reuse it, or even partnering and collaborating with people who are more likely to reuse it.
+
 - **Measuring openness:** OSPOs and others working on open strategies should develop methods of measuring openness.

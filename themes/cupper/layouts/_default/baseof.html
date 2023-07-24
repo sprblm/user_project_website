@@ -94,6 +94,7 @@
                         {{ range .Pages.ByWeight }}
                           <li class="pattern">
                             <a href="{{ .RelPermalink }}" {{ if eq $current.Permalink .Permalink  }}aria-current="page"{{ end }}>
+                              <span class="bullett">{{ ">>" }}</span>
                               <span class="text">{{ .Title }}</span>
                             </a>
                           </li>
@@ -110,7 +111,8 @@
       <div class="main-and-footer">
         <div class="header-image"><img src="{{"images/header-image.svg" | absURL }}" alt=""></div>
         <div class="wrapper-main">
-                      <img class="bg-image" src="{{.Params.featuredImage | absURL}}"alt="Background image of researcher with flask.">
+            <figure class="wrapper-bg-image"><img class="bg-image" src="{{.Params.featuredImage | absURL}}" alt="">
+            </figure>
           {{ block "main" . }}
           {{ end }}
 
