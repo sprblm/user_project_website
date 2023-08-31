@@ -10,7 +10,6 @@ weight: 9
 
 We use Open Source in the first sense (as a shorter variant of Free/Libre/Open Source Software), but in conversations, particularly among FLOSS enthusiasts, it can be important to be aware of the other meaning.
 
-
 **Acceptance criteria:** Typically added to a Github issue or a distinct piece of work as a set of rules to measure how successfully the issue solution/work meets certain criteria.
 
 **Citation:** Usually the reference to the source of an assertion. Being cited by other researchers is the major source of merit for a researcher. There are people arguing that software used in research projects should also be cited. 
@@ -53,7 +52,7 @@ We use Open Source in the first sense (as a shorter variant of Free/Libre/Open S
 
 **Resources:** The distinct elements that are at the disposal or for the use of the project or team as a whole primarily, people’s applied skills, inclusive of their time to do those skills and money. The term is probably not used much by developers and more by (project) managers, product managers, coordinators, budget managers or community organizers. 
 
-**Source code:** The text-based, human-readable representation of a computer program. From the source code, a running program can be created. →Open Source →Projects collaborate in writing the source code. 
+**Source code:** The text-based, human-readable representation of a computer program. From the source code, a running program can be created. Open Source Projects collaborate in writing the source code. 
 
 **SROSS:** Scientific Research Open Source Software
 
