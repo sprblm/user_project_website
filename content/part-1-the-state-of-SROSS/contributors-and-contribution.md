@@ -10,7 +10,7 @@ Contributors are commonly understood as people who work towards the mission of a
 
 ## The nature of contributions is evolving; design has yet to find a way to be recognized at large
 
-“Contribution means people working with me on the code.” The quote brings to light the kind of output a contributor adds to a project. While historically contributions were made with code or feature development, the notion of what “counts” as a contribution is evolving to include mentoring, event organization, conducting workshops, moderating forums, looking for funding, documentation, package management, supporting software distribution, design and a lot more. 
+“Contribution means people working with me on the code.” The quote brings to light the kind of output a contributor adds to a project. While historically contributions were made with code or feature development, the notion of what “counts” as a contribution is evolving to include mentoring, event organization, conducting workshops, moderating forums, looking for funding, documentation, package management, supporting software distribution, design and a lot more.
 
 People rarely brought up design as a part of contributions; in fact, only the designers we interviewed ever mentioned design as a contribution. One participant who identified as a designer said that it was their goal to work on open source but had to figure out ways without having to write HTML and CSS. Another participant who identifies themselves as an R&D engineer mentioned in the context of design that “I don’t think we have the opportunity to have them contribute a whole lot.”
 
@@ -18,7 +18,7 @@ People rarely brought up design as a part of contributions; in fact, only the de
 
 ## Who are the different contributors?
 
-Students, researchers, developers and designers are the most easily identifiable community members who contribute. “I was a student in science and software and I got to contribute to open source” recounts one developer participant. Another participant shared their story of getting students involved with usability studies. 
+Students, researchers, developers and designers are the most easily identifiable community members who contribute. “I was a student in science and software and I got to contribute to open source” recounts one developer participant. Another participant shared their story of getting students involved with usability studies.
 
 New developers from computer science backgrounds get attracted to contributing to open source as well. Most of the contributors fall in technical, conceptual and research areas. There was an evident dichotomy whether ‘users’ of the software are contributors. For projects where users can and do contribute, they contribute in different ways such as helping improve the terminology, helping choose the right language, providing feedback, or helping with software distribution by sharing it with colleagues. In other cases though, users were not considered contributors when they “just used the software or resources”. This dichotomy is further highlighted as one participant claimed that “many of the current contributors have been users, at some point” while another participant said that they “have a really hard time converting users to contributors”.
 
@@ -27,9 +27,7 @@ New developers from computer science backgrounds get attracted to contributing t
 This has been conveyed by most of the participants in one way or the other. One participant’s wholesome summary is worth mentioning, in which they indicated that they contribute:
 
 * to impact people’s lives with the software
-  
 * for the opportunity to challenge their skills, their knowledge
-
 * make technology accessible to people who may not have the means to pay for a license or have the freedom to change and enhance when it's necessary
 
 There have been other individual reasons that drive people to contribute such as their emotional connection with the project; in the case of students, to build on their academic study, improve grades, and/or fulfill work study, to be associated with a widely used software, job opportunities and career advancement, overall generosity, etc.
@@ -40,7 +38,7 @@ What makes contributors stick around in the long run however, is to be a part of
 
 The questions projects try to answer when setting up structures are - how to design the governance? Who gets to make decisions? Is there a decision making structure? Who all are involved? What contributions to keep or drop?
 
-Some projects have criteria and guidelines, code of conduct, dedicated channels as a part of their contributions governance. One participant who identified as the creator and main maintainer explained: 
+Some projects have criteria and guidelines, code of conduct, dedicated channels as a part of their contributions governance. One participant who identified as the creator and main maintainer explained:
 
 _“We have several criteria for integrating new features in terms of number of citations. When has it been released? Is it in the scope of the projects? Is it maintainable? … \[the process is that]every PR that is a technical contribution, gets reviewed, at least by two people so that we make sure that it's valuable in terms of experience, homogeneity, and document discoverability.”_
 
