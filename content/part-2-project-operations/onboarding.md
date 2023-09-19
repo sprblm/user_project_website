@@ -19,6 +19,7 @@ From our research we noted 10+ different interpretations of onboarding. These in
 These shared ways of onboarding included: 
 
 * “An ecosystem of resources depending on what you're using the tool for” A designer from a large cross disciplinary documentation project detailed. “Communities develop tutorials by themselves for their specific domains. The carpentries independently developed a course. “that's how we've got our onboarding, it's really, each communities onto their own develops a little cluster, journalists got a little cluster also of training, and so on, and the work within their community” stated a coder at a data storage and transformation project as well as describing both informal video call onboarding tutorials and chats as well as running workshops in the style of carpentries.
+
 * A co-lead researcher on a citizen science project expands on the pipeline of ‘onboarding’ to ‘contributor' more clearly by stating that long, time intensive processes of onboarding might not allow for certain users to become contributors. “We try to avoid having the problem of having people to really onboard them in like a long winded process, because then we will just not get anyone to participate as volunteers. So we try at least to our best to design things in a way that people can onboard themselves in that there's enough how to materials and that it's easy enough to follow along the process that people can learn it quite easily by themselves.”
 
 This connects to a common way that general OSS invites new contributors through testing and improving the experience of ‘getting started’ as its a process that all users and contributors will likely go through, has variations on the experiences that values difference and inclusion as well as being an accessible topic, ‘being new’ for contributors to expand on.
@@ -59,8 +60,6 @@ _“This community of people who are working towards some more goals, which is u
 And a developer for a Python based tool speaks to wanting to help researchers focus on research and not code, coming from their own experience:
 
 _“I'm no longer a scientist, right. But I understand how their time is valuable and how hard it is for them to focus on their science. So my goal, as a former scientist, who does code now is to take the code out of the way, like, you don't have to worry about this hurdle of learning, programming and learning how to solve your problem.”_
-
-
 
 ## Onboarding can be the ‘responsibility’ of professors, peers and universities if that OSS tool is an essential part of an academics course or research
 

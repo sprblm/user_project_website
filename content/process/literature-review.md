@@ -10,20 +10,20 @@ weight: 2
 
 Analyzing the difficulties to integrate open source development with methods to improve project’s usability go back at least two decades to Nichols/Twidale (2003). At the time of writing, the question remains open and is still researched (e.g. recent contributions by Wang et.al. 2022). This overview looks at different key points of the research, structuring it in sections on: 
 
-* Involvement of experts 
+* Involvement of experts
+  
 * Focus on a community of developers
+
 * Modularity of work
+
 * Communication and coordination methods
+
 * Distance to end users
+
 * Attempted interventions to integrate design and open source work
-
-
-
 ## Usability Experts in Open Source Projects
 
 Usability experts are rarely involved in open source projects (Raza, Caprez 2012; Andreasen 2006, Wang 2022). This is reflected in the research that tries to find ways to involve experts (Benson et.al. 2004, Bach 2009, Hedberg, Iivari 2009, Rajanen et.al 2015). Rajanen et.al. 2015 shows how usability experts are kept out of participation via the tactics of “non-response, social exclusion, and false acceptance”. While there might be several systemic factors that makes it less likely for Usability experts to participate, there can also be an aversion to the idea of expert involvement per se, as documented by Andreasen 2006, who describes concerns that expert involvement is incompatible with the group-based deliberation by community members (see Coleman 2012 for a discussion on this way of making decisions).
-
-
 
 ## Open Source Projects as communities of developers
 
@@ -33,19 +33,15 @@ Open Source projects are often defined as communities of developers or hackers. 
 
 A commonly cited aphorism by “Brook’s Law” suggests that adding more developers to a delayed project will delay it more (Brooks, 1995: “Oversimplifying outrageously, we state Brooks's Law: Adding manpower to a late software project makes it later.”). Open Source projects allow parallel development and seem to avoid this problem (Nicols 2002, Feller, Fritzgeralt 2001, Raymond 1997). However, this mode of collaboration demands modularity (Benkler 2002). Not all products can be worked on with such a peer-production approach, since they might not be easily modularized without sacrificing essential traits; Benkler suggests that e.g. “Novels…are likely to prove resistant to peer production”; Duguid (2006), too, shows that other modes of production might also run into problems, even if they already use a mode of peer-production (e.g. Wikipedia). Dunguid suggests that software production, particularly the fixing of bugs, might be a mode that works very well in peer production but the principles of it might not easily transfer to other media (like user interface designs). Hill and Monroy-Hernández (2013) evaluate the claim that peer production improves the quality for results empirically. They find that the artistic quality of computer games does not benefit from peer production.
 
-
-
 ## Media, Communication, Coordination
 
 To coordinate large projects, one might assume that roadmaps, design documents and other artifacts might play an important role in defining requirements of the software. However, such artifacts are not very prominent in many open-source projects (Alspaugh/Scacchi 2013). The coordination happens in forums and mailing lists (Bødker 2007, Alspaugh/Scacchi 2013) in ongoing deliberation. Additionally, the code itself is a resource for structuring collaboration (Bolici et.al. 2016). The coordination via ongoing communication and working on code is different from the common modes of working for designers, who often coordinate via representations of users and future products (Dix 2011 or Bødker 1998 for a general overview, but also Wilkie, 2010; Akrich 1995;) That many typical representations for UX work are absent in open source projects is also noted by Benson et.al. (2004), pointing out that both user profiles and representations of the work process for designers don’t exist in the project they analyzed. 
-
-
 
 ## Elitism and distance from non-technical users
 
 Achieving technological competence is particularly valued in the community of open source hackers (Coleman 2012). Learning from documentation and participation in the community of hackers is expected and can actually lead to limited support for newcomers, since helping them too much “will undercut their ability to prove their worth and intelligence within a group” (Coleman 2012)
 
-The non-skilled person is the “other” that the hacker is not. Andreasen et.al. (2006) cites a participant saying: “...hackers code for fun, and sure it is more fun to add support for some protocol feature than fixing a dialog for grandma”. (Note, that the imagined opposite to a fun task for the competent and often young and male hacker is supporting an old woman). The distance between the in-group and the out-group by their hacking ability is not new, and described in Levy’s “Hackers” (2010) as how members of the MIT AI Lab in the mid to late 60s divided their social world: “Winners” who are good at hacking, and “Losers” who are not. 
+The non-skilled person is the “other” that the hacker is not. Andreasen et.al. (2006) cites a participant saying: “...hackers code for fun, and sure it is more fun to add support for some protocol feature than fixing a dialog for grandma”. (Note, that the imagined opposite to a fun task for the competent and often young and male hacker is supporting an old woman). The distance between the in-group and the out-group by their hacking ability is not new, and described in Levy’s “Hackers” (2010) as how members of the MIT AI Lab in the mid to late 60s divided their social world: “Winners” who are good at hacking, and “Losers” who are not.
 
 A distinction between knowledgeable insiders and outside people who do not know how a computer works is not limited to open source hacking; it might be common in programming in general. Phil Agre (1995) describes the idea of the user in the “technical mindset” in which the user is seen as a part of the technological system – but a particular unruly one. Woolgar (1990) details how people in his field-site, a tech company, divide the world into the creators and “the user” (in general). In usability tests, the creators tried to evaluate their assumptions about users while at the same time upholding them: If a test participant would unexpectedly have knowledge of technology, they would be seen as a non-typical user.
 

@@ -16,12 +16,19 @@ ___
 **Questions we considered as we wrote positionality statements:**
 
 * How do you understand the research process and knowledge?
+
 * What are your beliefs about this topic?
+
 * Any history or personal interaction with this topic?
+
 * What are your understandings of systems of oppression and their influence on your research?
+
 * What is your connection to your participants? Do you share any commonalities, identities, or experiences with your participants?
+
 * What do you think you will find in this study?
+
 * What are your hopes for this study?
+
 * Anything else that is important for the reader to know about you?
 
 ___

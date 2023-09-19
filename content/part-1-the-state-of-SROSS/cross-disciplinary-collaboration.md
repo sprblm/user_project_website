@@ -10,17 +10,19 @@ Scientific Open Source projects are distinct in their collaborative nature betwe
 
 
 
-## Interdisciplinary work presents what many call a language barrier that makes collaboration challenging. 
+## Interdisciplinary work presents what many call a language barrier that makes collaboration challenging.
 
 * _“Scientists and engineers think differently, but they don’t think they think differently”_
+
 * _“Designers and Scientists live in different spheres? Are designers in visuals? advertising? business? maximise clicks! metrics are extremely different to SROSS users. Scientists don’t care about animation/billboard design”…“Interdisciplinary is difficult, it’s almost like a language barrier”_
+
 * _"It's all about communication, finding a common language, because that that's another barrier that I found."_
 
-## Many scientists are not trained as programmers, or are only proficient in one language, which makes project maintenance and contribution difficult in certain project environments. 
+## Many scientists are not trained as programmers, or are only proficient in one language, which makes project maintenance and contribution difficult in certain project environments.
 
 Many projects acknowledged that scientists typically do not have coding skills as strong as a traditional programmer. One participant begrudged this as a systemic issue: code development is not acknowledged as an integral part of a scientific career, when it should be.
 
-## Effective cross-disciplinary collaboration ranges in strategy and process. On the one hand, some projects prioritize mutual understanding and a state of continuous knowledge transfer between disciplines, while others take a more synergistic approach where each expert is able to excel in their domain without the burden of needing to know the “other” discipline well. 
+## Effective cross-disciplinary collaboration ranges in strategy and process. On the one hand, some projects prioritize mutual understanding and a state of continuous knowledge transfer between disciplines, while others take a more synergistic approach where each expert is able to excel in their domain without the burden of needing to know the “other” discipline well.
 
 _“I don't have a PHD in astrophysics but I work with people who do, and my favorite hobby is asking questions.”_
 

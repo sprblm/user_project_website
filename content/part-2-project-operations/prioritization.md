@@ -8,16 +8,17 @@ weight: 5
 
 Like any other software, prioritizing what to build and who to build it for is an important aspect of directing development and maintenance of open source science & research software. Project leaders and maintainers strongly consider users when it comes to prioritizing what to build.  
 
-Many factors influence what leaders and maintainers prioritize, such as: 
+Many factors influence what leaders and maintainers prioritize, such as:
 
 * the way users engage with a project,
+
 * project funding, such as grants,
+
 * the tools used,
+
 * and the contributors involved.
 
-
-
-## Fixing and Adding Features are Prioritized Over Usability 
+## Fixing and Adding Features are Prioritized Over Usability
 
 Usability or user experience almost never take precedence over fixing or adding features. Scientific and Research OSS projects prioritize bugs or issues that impede a user’s ability to operate or use the platform, followed by features and functionality above anything else. We consistently heard across projects that design and usability are not needed as much as fixing the breaking changes. Participants said that usability is  "important" but not a "priority". For example, one respondent who identifies as a designer said:  
 
@@ -38,9 +39,12 @@ Scientific OS projects adopt various techniques to prioritize user feedback like
 There are several factors that impact prioritization:
 
 * Users influence priority by being "involved", "active", "loud" or even simply by the nature of their public reputation.
+
 * Contributors also drive prioritization in their own way whether they fix a bug, add a feature, add documentation or examples. Since they volunteer their time, they prioritize based on their personal interest.
+
 * Client and grant relationships affect how user feedback is prioritized and implemented. A grant may prioritize certain issues over others.
-* 'Urgent' and 'easy to fix' tasks and issues are prioritized. We found in a few interviews that an email reporting an easy or quick 'bug' or a 'problem' is prioritized because it can be tackled soon, as opposed to assessing whether or not it's broadly applicable to users or the solution they have is the most human/user centered fix for the bug/issue.
+
+* 'Urgent' and 'easy to fix' tasks and issues are prioritized. We found in a few interviews that an email reporting an easy or quick 'bug' or a 'problem' is prioritized because it can be tackled soon, as   opposed to assessing whether or not it's broadly applicable to users or the solution they have is the most human/user centered fix for the bug/issue.
 
 ## Conclusion
 
