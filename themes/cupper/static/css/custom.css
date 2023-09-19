@@ -117,12 +117,12 @@ h6 {
 
 figure {
   @media screen and (max-width: 1200px) {
-  visibility: hidden;
+    visibility: hidden;
   }
 }
 
 .intro-and-nav {
- width: 16rem;
+  width: 16rem;
 }
 
 .intro-and-nav>div {
@@ -225,17 +225,19 @@ figure {
   background-position: center center;
 }
 
-.wrapper-main > #main ul li {
+/* .wrapper-main>#main ul li {
   margin: 1.25rem 0;
   text-indent: -40px;
-}
+} */
 
 .wrapper-main>#main ul li:before {
   content: ">>";
   font-family: IBM Plex Mono, monospace;
   font-weight: bold;
   position: relative;
-  margin-right: 10px
+  top: 36px;
+  left: -40px;
+  /* margin-right: 10px */
 }
 
 .wrapper-main>#main ul {
