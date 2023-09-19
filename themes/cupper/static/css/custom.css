@@ -225,13 +225,17 @@ figure {
   background-position: center center;
 }
 
+.wrapper-main > #main ul li {
+  margin: 1.25rem 0;
+  text-indent: -40px;
+}
+
 .wrapper-main>#main ul li:before {
   content: ">>";
   font-family: IBM Plex Mono, monospace;
   font-weight: bold;
   position: relative;
-  top: 36px;
-  left: -40px;
+  margin-right: 10px
 }
 
 .wrapper-main>#main ul {
