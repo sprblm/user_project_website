@@ -131,6 +131,29 @@
     </div>
     <script src="{{ "js/prism.js" | absURL }}"></script>
     <script src="{{ "js/dom-scripts.js" | absURL }}"></script>
+    {{/*  Script to preserve nav scroll position  */}}
+    <script>
+      // Stores the scroll position in localStorage
+      function storeScrollPosition() {
+        const navElement = document.getElementById('patterns-nav');
+        if (navElement) {
+          localStorage.setItem('navScrollPosition', navElement.scrollTop);
+        }
+      }
+      // Restores the scroll position from localStorage
+      function restoreScrollPosition() {
+        const navElement = document.getElementById('patterns-nav');
+        const storedScrollPosition = localStorage.getItem('navScrollPosition');
+        if (navElement && storedScrollPosition !== null) {
+          navElement.scrollTop = parseInt(storedScrollPosition, 10);
+        }
+      }
+      // Attaches an event listener to the window's beforeunload event to store the scroll position
+      window.addEventListener('beforeunload', storeScrollPosition);
+      // Calls the restoreScrollPosition function when the page loads
+      window.addEventListener('load', restoreScrollPosition);
+    </script>
+
     {{ if .Page.IsHome }}
       <script src="{{ "js/service-worker-registration.js" | absURL }}"></script>
     {{ end }}
