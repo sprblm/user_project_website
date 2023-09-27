@@ -1,10 +1,10 @@
 ---
 title: Ecosystem map
 slug: ecosystem-map
-author: Katie Wilson
 weight: 4
+author: Katie Wilson
 ---
-To see the true range of projects we spoke with, in discipline, size, and scope, take a look at our [**ecosystem map**](/about/ecosystem-map/). If your project team would like to be added, please [**submit an issue here.**](https://github.com/simplysecure/USER_project/issues/new)
+To see the true range of projects we spoke with, in discipline, size, and scope, take a look at our [**ecosystem map PDF**](https://github.com/simplysecure/USER_project/blob/main/research-outputs/USER%20Ecosystem%20Map.pdf) or on our [interactive Miro whiteboard](https://miro.com/app/board/uXjVMTyiSek=/?share_link_id=152590458566). If your project team would like to be added, please [**submit an issue here.**](https://github.com/simplysecure/USER_project/issues/new)
 
 ![A snapshot of our ecosystem map, which was created on Miro](/images/ecosystem_map.png)
 
