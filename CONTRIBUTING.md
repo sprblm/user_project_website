@@ -1,4 +1,11 @@
-# Contributing
+# Contributing to the USER website
+
+You can find issues to contribute in our [issues](https://github.com/simplysecure/user_project_website/issues). We welcome help on an issues.
+
+You can raise new issues and bugs by adding a [new issue](https://github.com/simplysecure/user_project_website/issues/new) your issue will be reviewed by the maintainer team at Superbloom and approved or closed.
+
+
+# Contributing to the Hugo theme Cupper
 
 Thank you for considering contributing to the **Cupper** pattern library builder. The basic rules are as follows.
 
