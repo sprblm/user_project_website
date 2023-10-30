@@ -17,7 +17,7 @@ We investigated how norms in academic, science, and/or open source working envir
 
 # Explore the research findings
 
-The best way to explore the research findings is to start with our [USER: Executive Summary](https://user-project.superbloom.design/findings/summary/). You'll find a brief overview of what we learned as well as actionable recommendations with relevant findings sections linked to either a finding or a recommendation.
+The best way to explore the research findings is to start with our [USER: Executive Summary](https://user-project.superbloom.design/process/summary/). You'll find a brief overview of what we learned as well as actionable recommendations with relevant findings sections linked to either a finding or a recommendation.
 
 If you'd like to read the findings in a linear format you can then start from the first chapter [A look at the ecosystem](https://user-project.superbloom.design/part-1-the-state-of-sross/look-at-ecosystem/).
 
